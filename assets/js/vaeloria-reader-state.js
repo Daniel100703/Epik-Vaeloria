@@ -3,12 +3,12 @@
 "use strict";
 class VaeloriaReaderState{
  constructor(storage){this.storage=storage;this.persisted=true;this.key="vaeloria-reader-v1";this.data=this.defaults();this.load();}
- defaults(){return{theme:"dark",font:20,motion:true,volume:.3,follow:true,bookmark:null};}
+ defaults(){return{appearance:2,theme:"dusk",font:20,motion:true,volume:.3,follow:true,bookmark:null};}
  load(){
   try{
    const raw=JSON.parse(this.storage.getItem(this.key)||"null");
    if(!raw||typeof raw!=="object")return;
-   if(raw.theme==="sepia"||raw.theme==="dark")this.data.theme=raw.theme;
+   if(["dusk","dark","sepia"].includes(raw.theme))this.data.theme=raw.theme==="dark"&&raw.appearance!==2?"dusk":raw.theme;
    if(Number.isFinite(raw.font))this.data.font=Math.max(16,Math.min(26,Math.round(raw.font)));
    if(Number.isFinite(raw.volume))this.data.volume=Math.max(0,Math.min(.65,raw.volume));
    if(typeof raw.motion==="boolean")this.data.motion=raw.motion;
@@ -20,7 +20,7 @@ class VaeloriaReaderState{
  set(name,value){
   if(name==="font")this.data.font=Math.max(16,Math.min(26,Math.round(Number(value)||20)));
   else if(name==="volume")this.data.volume=Math.max(0,Math.min(.65,Number(value)||0));
-  else if(name==="theme")this.data.theme=value==="sepia"?"sepia":"dark";
+  else if(name==="theme")this.data.theme=["dusk","dark","sepia"].includes(value)?value:"dusk";
   else if(name==="motion"||name==="follow")this.data[name]=!!value;
   else return false;
   return this.save();
