@@ -1,0 +1,598 @@
+{
+  "version": 1,
+  "title": "Epik Vaeloria — Ruang Musik",
+  "type": "Sketsa musik sintetis orisinal",
+  "note": "Rancangan musikal; judul dan kesan musik tidak menetapkan kanon cerita.",
+  "moods": {
+    "keluarga": {
+      "name": "Api di Perapian",
+      "description": "Petikan lembut, harmoni hangat, dan ruang bagi percakapan.",
+      "tempo": 64,
+      "root": 50,
+      "scale": [
+        0,
+        2,
+        4,
+        7,
+        9
+      ],
+      "chords": [
+        [
+          0,
+          4,
+          7
+        ],
+        [
+          5,
+          9,
+          12
+        ],
+        [
+          7,
+          11,
+          14
+        ],
+        [
+          0,
+          4,
+          7
+        ]
+      ],
+      "melody": [
+        0,
+        2,
+        4,
+        2,
+        1,
+        0,
+        null,
+        1,
+        2,
+        4,
+        3,
+        2,
+        1,
+        0,
+        null,
+        null
+      ],
+      "instrument": "pluck",
+      "pad": 0.13,
+      "bass": 0.08,
+      "lead": 0.12,
+      "drum": 0,
+      "color": "#d6b07a"
+    },
+    "istana": {
+      "name": "Aula Mahkota",
+      "description": "Langkah terukur dan nada rendah di bawah melodi yang tertahan.",
+      "tempo": 66,
+      "root": 45,
+      "scale": [
+        0,
+        2,
+        3,
+        5,
+        7,
+        8,
+        10
+      ],
+      "chords": [
+        [
+          0,
+          3,
+          7
+        ],
+        [
+          5,
+          8,
+          12
+        ],
+        [
+          7,
+          10,
+          14
+        ],
+        [
+          0,
+          3,
+          7
+        ]
+      ],
+      "melody": [
+        0,
+        null,
+        4,
+        3,
+        2,
+        null,
+        1,
+        null,
+        0,
+        2,
+        4,
+        null,
+        5,
+        4,
+        2,
+        null
+      ],
+      "instrument": "horn",
+      "pad": 0.15,
+      "bass": 0.1,
+      "lead": 0.1,
+      "drum": 0.05,
+      "color": "#d6b974"
+    },
+    "perjalanan": {
+      "name": "Jalan yang Terbentang",
+      "description": "Denyut ringan dan frasa lapang yang menemani langkah panjang.",
+      "tempo": 88,
+      "root": 50,
+      "scale": [
+        0,
+        2,
+        5,
+        7,
+        9
+      ],
+      "chords": [
+        [
+          0,
+          5,
+          7
+        ],
+        [
+          5,
+          9,
+          12
+        ],
+        [
+          7,
+          12,
+          14
+        ],
+        [
+          0,
+          5,
+          9
+        ]
+      ],
+      "melody": [
+        0,
+        1,
+        2,
+        4,
+        3,
+        2,
+        1,
+        null,
+        2,
+        3,
+        4,
+        3,
+        2,
+        1,
+        0,
+        null
+      ],
+      "instrument": "pluck",
+      "pad": 0.1,
+      "bass": 0.08,
+      "lead": 0.13,
+      "drum": 0.05,
+      "color": "#8eafa1"
+    },
+    "intrik": {
+      "name": "Di Balik Tirai",
+      "description": "Petikan renggang dan interval sempit yang menyisakan ketegangan.",
+      "tempo": 68,
+      "root": 45,
+      "scale": [
+        0,
+        1,
+        3,
+        5,
+        7,
+        8,
+        10
+      ],
+      "chords": [
+        [
+          0,
+          3,
+          7
+        ],
+        [
+          1,
+          5,
+          8
+        ],
+        [
+          0,
+          3,
+          7
+        ],
+        [
+          7,
+          10,
+          14
+        ]
+      ],
+      "melody": [
+        0,
+        null,
+        1,
+        null,
+        4,
+        3,
+        null,
+        1,
+        0,
+        null,
+        5,
+        4,
+        null,
+        2,
+        1,
+        null
+      ],
+      "instrument": "pluck",
+      "pad": 0.12,
+      "bass": 0.1,
+      "lead": 0.1,
+      "drum": 0,
+      "color": "#aa93bf"
+    },
+    "perang": {
+      "name": "Langkah Panji",
+      "description": "Perkusi rendah dan frasa pendek yang menambah tekanan.",
+      "tempo": 100,
+      "root": 38,
+      "scale": [
+        0,
+        2,
+        3,
+        5,
+        7,
+        8,
+        10
+      ],
+      "chords": [
+        [
+          0,
+          7,
+          12
+        ],
+        [
+          3,
+          7,
+          10
+        ],
+        [
+          5,
+          12,
+          17
+        ],
+        [
+          0,
+          7,
+          12
+        ]
+      ],
+      "melody": [
+        0,
+        0,
+        4,
+        null,
+        0,
+        2,
+        4,
+        null,
+        5,
+        4,
+        2,
+        0,
+        2,
+        4,
+        0,
+        null
+      ],
+      "instrument": "horn",
+      "pad": 0.12,
+      "bass": 0.12,
+      "lead": 0.1,
+      "drum": 0.15,
+      "color": "#cb806e"
+    },
+    "kehilangan": {
+      "name": "Yang Tinggal dalam Sunyi",
+      "description": "Nada jarang, gema panjang, dan ruang untuk keheningan.",
+      "tempo": 52,
+      "root": 45,
+      "scale": [
+        0,
+        2,
+        3,
+        5,
+        7,
+        8,
+        10
+      ],
+      "chords": [
+        [
+          0,
+          3,
+          7
+        ],
+        [
+          5,
+          8,
+          12
+        ],
+        [
+          3,
+          7,
+          10
+        ],
+        [
+          0,
+          3,
+          7
+        ]
+      ],
+      "melody": [
+        4,
+        null,
+        3,
+        null,
+        2,
+        null,
+        0,
+        null,
+        1,
+        null,
+        0,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "instrument": "bell",
+      "pad": 0.12,
+      "bass": 0.05,
+      "lead": 0.09,
+      "drum": 0,
+      "color": "#9baec7"
+    },
+    "mukjizat": {
+      "name": "Dalam Doa",
+      "description": "Lapisan nada perlahan terbuka; tenang, terang, dan khidmat.",
+      "tempo": 58,
+      "root": 50,
+      "scale": [
+        0,
+        2,
+        4,
+        7,
+        9
+      ],
+      "chords": [
+        [
+          0,
+          4,
+          7
+        ],
+        [
+          5,
+          9,
+          12
+        ],
+        [
+          0,
+          7,
+          12
+        ],
+        [
+          0,
+          4,
+          9
+        ]
+      ],
+      "melody": [
+        0,
+        null,
+        2,
+        null,
+        3,
+        null,
+        4,
+        null,
+        3,
+        2,
+        null,
+        1,
+        0,
+        null,
+        null,
+        null
+      ],
+      "instrument": "bell",
+      "pad": 0.16,
+      "bass": 0.05,
+      "lead": 0.1,
+      "drum": 0,
+      "color": "#e2d49e"
+    },
+    "purwa": {
+      "name": "Gema yang Tua",
+      "description": "Bunyi kayu dan dengung lembut dengan jarak nada yang lapang.",
+      "tempo": 60,
+      "root": 43,
+      "scale": [
+        0,
+        3,
+        5,
+        7,
+        10
+      ],
+      "chords": [
+        [
+          0,
+          7,
+          12
+        ],
+        [
+          5,
+          12,
+          17
+        ],
+        [
+          3,
+          10,
+          15
+        ],
+        [
+          0,
+          7,
+          10
+        ]
+      ],
+      "melody": [
+        0,
+        null,
+        3,
+        2,
+        null,
+        1,
+        null,
+        0,
+        4,
+        null,
+        3,
+        null,
+        1,
+        0,
+        null,
+        null
+      ],
+      "instrument": "wood",
+      "pad": 0.14,
+      "bass": 0.08,
+      "lead": 0.12,
+      "drum": 0.035,
+      "color": "#86b5ad"
+    }
+  },
+  "motifs": {
+    "griffin": {
+      "name": "House Griffin",
+      "title": "Sumpah yang Dipegang",
+      "description": "Frasa naik tiga nada, lalu pulang pada nada dasar.",
+      "mood": "keluarga",
+      "tempo": 68,
+      "melody": [
+        0,
+        1,
+        3,
+        null,
+        4,
+        3,
+        1,
+        0,
+        0,
+        1,
+        3,
+        null,
+        2,
+        1,
+        0,
+        null
+      ],
+      "instrument": "horn",
+      "color": "#cbb579"
+    },
+    "singa": {
+      "name": "Cabang Singa",
+      "title": "Berat Sebuah Mahkota",
+      "description": "Nada rendah berulang, aksen tegas, dan sela hening.",
+      "mood": "istana",
+      "tempo": 72,
+      "melody": [
+        0,
+        0,
+        null,
+        4,
+        3,
+        null,
+        2,
+        0,
+        0,
+        null,
+        4,
+        5,
+        4,
+        2,
+        0,
+        null
+      ],
+      "instrument": "horn",
+      "color": "#c98b70"
+    },
+    "radbod": {
+      "name": "Radbod",
+      "title": "Langkah di Balik Layar",
+      "description": "Pola pendek yang kembali dengan satu nada berubah.",
+      "mood": "intrik",
+      "tempo": 62,
+      "melody": [
+        0,
+        1,
+        null,
+        4,
+        0,
+        1,
+        null,
+        3,
+        0,
+        1,
+        null,
+        5,
+        4,
+        2,
+        1,
+        null
+      ],
+      "instrument": "pluck",
+      "color": "#b09bc9"
+    },
+    "bangsa_purwa": {
+      "name": "Bangsa Purwa",
+      "title": "Ingatan Hutan",
+      "description": "Motif lima nada, pukulan kayu, dan dengung lembut.",
+      "mood": "purwa",
+      "tempo": 58,
+      "melody": [
+        0,
+        2,
+        null,
+        3,
+        4,
+        null,
+        2,
+        0,
+        0,
+        null,
+        2,
+        3,
+        null,
+        1,
+        0,
+        null
+      ],
+      "instrument": "wood",
+      "color": "#88b5a5"
+    }
+  }
+}
