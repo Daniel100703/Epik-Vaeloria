@@ -42,6 +42,44 @@ body.night .tile:nth-child(1){background:linear-gradient(145deg,#4b3c65,#2c3650)
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*:before,*:after{animation:none!important;transition:none!important}}
 
 [data-heading]:focus{outline:none}.resume .eyebrow{display:block;margin-bottom:8px}.resume strong{display:block}.progress{top:var(--toolbar-height,68px)}
+
+/* Reading modes: flowing text or a paginated storybook. */
+.read-controls{display:flex;gap:12px;align-items:center;justify-content:space-between;flex-wrap:wrap;margin:0 0 22px;padding:16px;border:1px solid var(--line);border-radius:16px;background:var(--panel)}
+.mode-switch{display:flex;gap:5px;padding:4px;background:var(--panel2);border-radius:12px}
+.mode-switch button{font:12px system-ui;padding:10px 13px;border:1px solid transparent;border-radius:9px;background:none;color:var(--ink)}
+.mode-switch button[aria-pressed=true]{background:var(--panel);border-color:var(--line);box-shadow:0 3px 9px #3e284b12}
+.auto-controls{display:flex;gap:10px;align-items:center;flex-wrap:wrap}.auto-controls label{font:11px system-ui;color:var(--soft)}.auto-controls input{width:85px}.auto-controls output{font:11px system-ui;min-width:78px;color:var(--soft)}.auto-controls .tool[aria-pressed=true]{background:#8452a4;color:#fff;border-color:#8452a4}
+.reading-status{min-height:1.5em;font:11px/1.6 system-ui;color:var(--soft);margin:-8px 0 18px}
+.book-shell{position:relative}.book-header,.book-navigation{display:none}
+.book-mode{--paper:#fff4df;--paper-shade:#e3cba5;--book-ink:#463325;--book-soft:#79634c;--book-rule:#c9ab7b;max-width:1100px;margin:24px auto 0;padding:20px 12px 12px;background:linear-gradient(115deg,#503b5a,#342d48);border:1px solid #91749b;border-radius:12px 20px 20px 12px;box-shadow:0 24px 45px #39264027,4px 5px 0 #987158,7px 8px 0 #d6c2a0}
+.book-mode .book-header{display:flex;justify-content:space-between;align-items:center;padding:0 15px 17px;gap:14px;color:#f5ddba;font:10px/1.5 system-ui;letter-spacing:.14em;text-transform:uppercase}
+.book-mode .book-viewport{position:relative;overflow:hidden;height:clamp(420px,65vh,680px);padding:42px 32px 38px;background:linear-gradient(90deg,#c5a97c15,transparent 5%,transparent 95%,#c5a97c26),var(--paper);border:1px solid #b39164;border-radius:4px 8px 8px 4px;touch-action:pan-y pinch-zoom;color:var(--book-ink)}
+.book-mode.two-pages .book-viewport{background:linear-gradient(90deg,transparent 46%,#8b663412 49.2%,#70573548 50%,#fff8ea77 50.6%,transparent 54%),var(--paper)}
+.book-mode .book-viewport:before,.book-mode .book-viewport:after{content:"◆";position:absolute;z-index:2;left:20px;right:20px;text-align:center;color:var(--book-rule);font:13px Georgia;pointer-events:none;background:linear-gradient(90deg,var(--book-rule),var(--book-rule)) center/95% 1px no-repeat}
+.book-mode .book-viewport:before{top:17px}.book-mode .book-viewport:after{bottom:13px}
+.book-mode article{margin:0;padding:0;border:0;border-radius:0;box-shadow:none;background:none;color:var(--book-ink);width:100%;max-width:none;height:100%;column-fill:auto;column-gap:64px;column-width:var(--column-width,320px);column-count:var(--visible-pages,1);overflow:visible;transition:transform .45s cubic-bezier(.22,.65,.2,1);will-change:transform}
+.book-mode article.reflowing{transition:none}
+.book-mode .reader-intro{color:var(--book-soft);border-bottom:0;line-height:1.85;font-size:var(--font);padding:20px 0 0;margin:0}
+.book-mode .reader-intro:before{content:"Epik Vaeloria";display:block;color:var(--book-ink);font:italic 33px/1.2 Georgia;text-align:center;margin:18px 0 28px}
+.book-mode .scene{min-height:0;padding:0;margin:0;border:0;background:none;break-before:column}
+.book-mode .scene .eyebrow{display:block;color:var(--book-soft);font-size:9px;padding:4px 0 0;line-height:1.6}
+.book-mode .scene h3{font-size:clamp(25px,2.8vw,32px);color:var(--book-ink);margin:16px 0 24px;break-after:avoid}
+.book-mode .scene p{font-size:var(--font);line-height:1.85;color:var(--book-ink);orphans:3;widows:3;hyphens:auto}
+.book-mode .scene p:first-of-type:first-letter{float:left;font:3.3em/.85 Georgia;margin:7px 7px 0 0;color:#855529}
+.book-mode .book-navigation{display:flex;justify-content:space-between;align-items:center;gap:12px;padding:15px 9px 4px;color:#f6e6cd}
+.book-navigation .page-label{font:12px system-ui;text-align:center}.book-navigation .page-label small{display:block;font:10px system-ui;color:#d9c2d9;margin-top:5px}
+.book-navigation button{background:#ffffff10;color:#fff1dc;border:1px solid #c9a8d050}.book-navigation button:disabled{opacity:.35;cursor:default}
+.auto-progress{height:2px;max-width:130px;background:#ffffff24;margin:8px auto 0;overflow:hidden}.auto-progress i{display:block;background:#edc093;width:0;height:100%}
+body.night .book-mode{--paper:#30374b;--paper-shade:#252c40;--book-ink:#f2e8d9;--book-soft:#d0c5b9;--book-rule:#9d8b73}
+body.night .book-mode .scene p:first-of-type:first-letter{color:#efc68d}
+body.night .book-mode.two-pages .book-viewport{background:linear-gradient(90deg,transparent 47%,#0f152846 50%,transparent 54%),var(--paper)}
+.book-viewport:focus-visible{outline:3px solid #c39dd9;outline-offset:6px}
+@media(max-width:700px){.read-controls{padding:12px;gap:14px}.mode-switch{width:100%}.mode-switch button{flex:1}.auto-controls{gap:9px}.auto-controls output{min-width:65px}.book-mode{padding:14px 7px 8px;margin-top:20px}.book-mode .book-header{font-size:8px;padding:0 7px 13px;letter-spacing:.08em}.book-mode .book-viewport{height:clamp(440px,66svh,620px);padding:37px 24px 34px}.book-mode article{column-gap:48px}.book-mode .scene p{line-height:1.8}.book-mode .book-navigation{padding-inline:3px;gap:8px}.book-navigation button{font-size:10px;padding:10px 9px}.book-navigation .page-label{font-size:11px}.book-navigation .page-label small{font-size:9px}.book-mode .reader-intro:before{font-size:29px}.reading-status{font-size:10px}}
+
+
+.book-mode .book-viewport{height:clamp(300px,calc(100svh - var(--toolbar-height,68px) - var(--player-height,90px) - 150px),680px)}#auto-stop{white-space:nowrap;background:#8452a4;color:white;border-color:#8452a4}
+
+.book-navigation button{flex:0 0 auto;white-space:nowrap}.book-navigation .page-label{flex:1;min-width:0}.book-navigation .page-label small{line-height:1.5}@media(max-width:700px){.book-navigation button{padding:10px 7px;font-size:9px}}
 </style></head><body>
 <a class="skip" href="#main">Langsung ke isi</a>
 <aside class="sidebar" id="sidebar"><div class="mark" aria-hidden="true">V</div><button class="brand" data-open="home" type="button">EPIK<br>VAELORIA</button><button class="tool mobile-menu" id="menu-toggle" type="button" aria-expanded="false" aria-controls="navigation">Menu</button><div class="sidecaption">Ruang pembaca</div><nav id="navigation" aria-label="Navigasi utama"><button class="navbutton" data-nav="home" aria-current="page" type="button"><span aria-hidden="true">⌂</span><span>Beranda</span></button><button class="navbutton" data-nav="read" type="button"><span aria-hidden="true">≡</span><span>Ruang baca</span></button><button class="navbutton" data-nav="music" type="button"><span aria-hidden="true">♫</span><span>Ruang musik</span></button><button class="navbutton" data-nav="settings" type="button"><span aria-hidden="true">⚙</span><span>Pengaturan</span></button></nav><div class="sidebarfooter">Pratinjau pengalaman membaca.<br>Naskah bab belum diterbitkan.<br><a href="https://github.com/Daniel100703/Epik-Vaeloria" target="_blank" rel="noopener">Proyek Epik Vaeloria ↗</a></div></aside>
@@ -50,14 +88,14 @@ body.night .tile:nth-child(1){background:linear-gradient(145deg,#4b3c65,#2c3650)
 <section id="panel-home"><div class="hero"><div class="hero-art" aria-hidden="true"></div><div class="sparks" aria-hidden="true"><i style="--x:5%;--d:11s;--delay:-0s"></i><i style="--x:11%;--d:13s;--delay:-1.7s"></i><i style="--x:17%;--d:15s;--delay:-3.4s"></i><i style="--x:23%;--d:17s;--delay:-5.1s"></i><i style="--x:29%;--d:19s;--delay:-6.8s"></i><i style="--x:35%;--d:11s;--delay:-8.5s"></i><i style="--x:41%;--d:13s;--delay:-10.2s"></i><i style="--x:47%;--d:15s;--delay:-11.9s"></i><i style="--x:53%;--d:17s;--delay:-13.6s"></i><i style="--x:59%;--d:19s;--delay:-15.299999999999999s"></i><i style="--x:65%;--d:11s;--delay:-17s"></i><i style="--x:71%;--d:13s;--delay:-18.7s"></i><i style="--x:77%;--d:15s;--delay:-20.4s"></i><i style="--x:83%;--d:17s;--delay:-22.099999999999998s"></i><i style="--x:89%;--d:19s;--delay:-23.8s"></i><i style="--x:95%;--d:11s;--delay:-25.5s"></i></div><div class="herotext"><span class="eyebrow">Ruang pembaca interaktif</span><h1>Kisah yang tinggal.<br>Dunia yang <em>bergerak.</em></h1><p>Ilustrasi, iringan, dan ruang baca dalam satu tempat. Atur suasana, tandai bacaan, lalu tenggelam dalam halaman.</p><div class="genres"><span>FANTASY</span><span>DRAMA</span><span>INTRIK POLITIK</span></div><div class="actions"><button class="primary" data-open="read" type="button">Coba ruang baca</button><button class="secondary" data-open="music" type="button">Dengarkan musik</button></div></div></div>
 <div class="resume" id="resume-card" hidden><div><span class="eyebrow">Penanda terakhir</span><strong id="resume-title">Posisi bacaan</strong><small>Pratinjau ruang baca</small></div><button class="primary" id="resume" type="button">Lanjut dari penanda</button></div>
 <div class="sectionhead"><div><span class="eyebrow">Pilih perjalananmu</span><h2 data-heading tabindex="-1">Satu ruang, banyak suasana</h2></div><p>Musik dapat terus mengalun saat berpindah menu. Semuanya bisa disesuaikan dari pemutar di bawah.</p></div><div class="tiles"><button class="tile" data-open="read" type="button"><span class="symbol" aria-hidden="true">≡</span><h3>Ruang baca</h3><p>Coba musik per adegan, penanda, ukuran huruf, dan mode fokus.</p></button><button class="tile" data-open="music" type="button"><span class="symbol" aria-hidden="true">♫</span><h3>Musik ansambel</h3><p>Delapan suasana dan empat motif untuk didengarkan dari dashboard.</p></button><button class="tile" data-open="settings" type="button"><span class="symbol" aria-hidden="true">◐</span><h3>Nyaman dibaca</h3><p>Pilih Senja, Malam biru, atau Perkamen; atur tulisan dan gerakan sesuai kenyamanan.</p></button></div><p class="smallnote">Halaman ini merupakan pratinjau antarmuka. Teks contoh di ruang baca menjelaskan suasana musik dan bukan bagian dari naskah novel.</p></section>
-<section id="panel-read" hidden><span class="eyebrow">Pratinjau pembaca · 8 suasana</span><h1 class="page-title" data-heading tabindex="-1">Membaca bersama iringan</h1><div class="toolbar"><div class="tools"><button class="tool" id="font-less" type="button" aria-label="Perkecil huruf">A−</button><button class="tool" id="font-more" type="button" aria-label="Perbesar huruf">A+</button><button class="tool" id="bookmark" type="button">Tandai posisi</button><button class="tool" id="focus-button" type="button" aria-pressed="false">Mode fokus</button></div><div class="tools"><button class="tool" id="follow-button" type="button" aria-pressed="true">Musik adegan: aktif</button><span class="meta muted" id="progress-label">0%</span></div></div><div class="progress" id="read-progress" role="progressbar" aria-label="Kemajuan pratinjau bacaan" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0"><i id="progress-fill"></i></div><article id="reader"><p class="reader-intro">Tekan <strong>Putar musik</strong>, lalu gulir perlahan. Iringan mengikuti suasana yang sedang terlihat. Teks di bawah adalah panduan untuk mencoba pengalaman membaca; naskah bab belum diterbitkan.</p><section class="scene" data-mood="keluarga" aria-labelledby="scene-keluarga"><span class="eyebrow">Suasana 01 · keluarga</span><h3 id="scene-keluarga">Dekat, hangat, bersahaja</h3><p>Petikan membuka ruang bagi percakapan. Melodi tidak terus memenuhi setiap sela; ada hening untuk suara manusia dan hal-hal kecil yang ingin diingat.</p></section>
+<section id="panel-read" hidden><span class="eyebrow">Pratinjau pembaca · 8 suasana</span><h1 class="page-title" data-heading tabindex="-1">Membaca bersama iringan</h1><div class="read-controls" aria-label="Cara membaca"><div class="mode-switch" role="group" aria-label="Mode baca"><button type="button" id="mode-scroll" aria-pressed="true">↕ Gulir ke bawah</button><button type="button" id="mode-book" aria-pressed="false">▤ Buku dongeng</button></div><div class="auto-controls"><button class="tool" id="auto-read" type="button" aria-pressed="false">Mulai otomatis</button><label for="read-speed">Kecepatan</label><input id="read-speed" type="range" min="1" max="5" step="1" value="3"><output id="read-speed-label" for="read-speed">Normal</output></div></div><p class="reading-status" id="reading-status" role="status" aria-live="polite">Gulir sendiri atau tekan Mulai otomatis.</p><div class="toolbar"><div class="tools"><button class="tool" id="font-less" type="button" aria-label="Perkecil huruf">A−</button><button class="tool" id="font-more" type="button" aria-label="Perbesar huruf">A+</button><button class="tool" id="bookmark" type="button">Tandai posisi</button><button class="tool" id="focus-button" type="button" aria-pressed="false">Mode fokus</button></div><div class="tools"><button class="tool" id="follow-button" type="button" aria-pressed="true">Musik adegan: aktif</button><span class="meta muted" id="progress-label">0%</span></div></div><div class="progress" id="read-progress" role="progressbar" aria-label="Kemajuan pratinjau bacaan" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0"><i id="progress-fill"></i></div><div class="book-shell" id="book-shell"><div class="book-header" aria-hidden="true"><span>Epik Vaeloria</span><span>✦ Edisi buku dongeng ✦</span></div><div class="book-viewport" id="book-viewport" tabindex="0" role="region" aria-label="Isi bacaan"><article id="reader"><p class="reader-intro">Tekan <strong>Putar musik</strong>, lalu pilih mode gulir atau buku dongeng. Keduanya mendukung baca otomatis; iringan mengikuti suasana yang terlihat. Teks di bawah adalah panduan untuk mencoba pengalaman membaca; naskah bab belum diterbitkan.</p><section class="scene" data-mood="keluarga" aria-labelledby="scene-keluarga"><span class="eyebrow">Suasana 01 · keluarga</span><h3 id="scene-keluarga">Dekat, hangat, bersahaja</h3><p>Petikan membuka ruang bagi percakapan. Melodi tidak terus memenuhi setiap sela; ada hening untuk suara manusia dan hal-hal kecil yang ingin diingat.</p></section>
 <section class="scene" data-mood="istana" aria-labelledby="scene-istana"><span class="eyebrow">Suasana 02 · istana</span><h3 id="scene-istana">Di bawah berat mahkota</h3><p>Langkah musik menjadi lebih terukur. Nada rendah menopang melodi yang tertahan, memberi tempat bagi upacara, percakapan resmi, dan ketegangan di sebuah aula.</p></section>
 <section class="scene" data-mood="perjalanan" aria-labelledby="scene-perjalanan"><span class="eyebrow">Suasana 03 · perjalanan</span><h3 id="scene-perjalanan">Langkah demi langkah</h3><p>Denyut bergerak sedikit lebih cepat. Frasa berulang terasa lapang, menjaga irama perjalanan tanpa memaksa pembaca mempercepat langkahnya sendiri.</p></section>
 <section class="scene" data-mood="intrik" aria-labelledby="scene-intrik"><span class="eyebrow">Suasana 04 · intrik</span><h3 id="scene-intrik">Sesuatu belum terucap</h3><p>Petikan terpisah oleh jeda. Satu nada yang bergeser mengubah rasa sebuah pola; ketegangan hadir perlahan, tanpa ledakan bunyi yang mengganggu.</p></section>
 <section class="scene" data-mood="perang" aria-labelledby="scene-perang"><span class="eyebrow">Suasana 05 · perang</span><h3 id="scene-perang">Ketika panji bergerak</h3><p>Pukulan rendah dan motif pendek menambah tekanan. Lapisan dijaga agar musik menopang adegan dan tulisan tetap menjadi pusat perhatian.</p></section>
 <section class="scene" data-mood="kehilangan" aria-labelledby="scene-kehilangan"><span class="eyebrow">Suasana 06 · kehilangan</span><h3 id="scene-kehilangan">Ruang bagi yang tiada</h3><p>Musik menipis. Sebuah nada dibiarkan menghilang sebelum nada berikutnya datang, menyediakan ruang bagi keheningan dan kehilangan.</p></section>
 <section class="scene" data-mood="mukjizat" aria-labelledby="scene-mukjizat"><span class="eyebrow">Suasana 07 · mukjizat</span><h3 id="scene-mukjizat">Hening sebelum terang</h3><p>Nada terbuka secara perlahan. Suasananya khidmat dan tenang, dengan ruang bagi doa; kemegahan tumbuh dari perubahan harmoni.</p></section>
-<section class="scene" data-mood="purwa" aria-labelledby="scene-purwa"><span class="eyebrow">Suasana 08 · purwa</span><h3 id="scene-purwa">Gema yang lama tinggal</h3><p>Bunyi kayu dan dengung lembut mengisi jarak di antara nada. Motifnya memberi kesan tua dan luas, tanpa menetapkan sejarah atau sifat suatu bangsa.</p></section></article></section>
+<section class="scene" data-mood="purwa" aria-labelledby="scene-purwa"><span class="eyebrow">Suasana 08 · purwa</span><h3 id="scene-purwa">Gema yang lama tinggal</h3><p>Bunyi kayu dan dengung lembut mengisi jarak di antara nada. Motifnya memberi kesan tua dan luas, tanpa menetapkan sejarah atau sifat suatu bangsa.</p></section></article></div><div class="book-navigation" id="book-navigation"><button type="button" class="tool" id="page-prev" aria-label="Halaman sebelumnya">← Sebelumnya</button><div class="page-label"><span id="page-label" role="status" aria-live="polite">Halaman 1</span><small>Geser halaman atau gunakan tombol panah</small><div class="auto-progress" aria-hidden="true"><i id="auto-page-progress"></i></div></div><button type="button" class="tool" id="page-next" aria-label="Halaman berikutnya">Berikutnya →</button></div></div></section>
 <section id="panel-music" hidden><span class="eyebrow">Ruang musik · Dari dashboard</span><h1 class="page-title" data-heading tabindex="-1">Dengarkan dunia Vaeloria</h1><p class="smallnote">Dua belas sketsa musik sintetis orisinal. Pilih kartu untuk mendengarkan; musik tetap berjalan ketika berpindah menu.</p><div class="musicgrid"><button class="track" type="button" data-track="keluarga" aria-pressed="true"><span class="tag">Suasana 1</span><strong>Api di Perapian</strong><small>Petikan lembut, harmoni hangat, dan ruang bagi percakapan.</small><span class="tempo">64 BPM</span></button>
 <button class="track" type="button" data-track="istana" aria-pressed="false"><span class="tag">Suasana 2</span><strong>Aula Mahkota</strong><small>Langkah terukur dan nada rendah di bawah melodi yang tertahan.</small><span class="tempo">66 BPM</span></button>
 <button class="track" type="button" data-track="perjalanan" aria-pressed="false"><span class="tag">Suasana 3</span><strong>Jalan yang Terbentang</strong><small>Denyut ringan dan frasa lapang yang menemani langkah panjang.</small><span class="tempo">88 BPM</span></button>
@@ -71,7 +109,7 @@ body.night .tile:nth-child(1){background:linear-gradient(145deg,#4b3c65,#2c3650)
 <button class="track" type="button" data-track="radbod" aria-pressed="false"><span class="tag">Motif ansambel</span><strong>Radbod</strong><small>Pola pendek yang kembali dengan satu nada berubah.</small><span class="tempo">62 BPM</span></button>
 <button class="track" type="button" data-track="bangsa_purwa" aria-pressed="false"><span class="tag">Motif ansambel</span><strong>Bangsa Purwa</strong><small>Motif lima nada, pukulan kayu, dan dengung lembut.</small><span class="tempo">58 BPM</span></button></div><p class="smallnote">Motif ini merupakan rancangan musikal. Judul dan kesan musik tidak menetapkan fakta cerita. <a href="musik.html">Buka halaman Ruang Musik lengkap ↗</a></p></section>
 <section id="panel-settings" hidden><span class="eyebrow">Pengaturan pembaca</span><h1 class="page-title" data-heading tabindex="-1">Baca dengan nyaman</h1><div class="settings"><div class="setting"><div><label for="theme"><strong>Tema bacaan</strong></label><p>Pilih suasana tampilan yang nyaman untuk mata.</p></div><select id="theme"><option value="dusk">Senja</option><option value="dark">Malam biru</option><option value="sepia">Perkamen</option></select></div><div class="setting"><div><label for="font"><strong>Ukuran tulisan</strong></label><p>Ukuran paragraf di ruang baca: <output id="font-value" for="font">20 px</output></p></div><input id="font" type="range" min="16" max="26" value="20"></div><div class="setting"><div><label for="motion"><strong>Gerakan halus</strong></label><p>Aktifkan gerak pada sampul dan partikel cahaya. Preferensi pengurangan gerakan perangkat tetap dihormati.</p></div><input id="motion" type="checkbox" checked></div><div class="setting"><div><label for="auto-music"><strong>Ikuti suasana adegan</strong></label><p>Setelah musik diaktifkan, pergantian mengikuti bagian yang sedang dibaca.</p></div><input id="auto-music" type="checkbox" checked></div><div class="setting"><div><strong>Penanda bacaan</strong><p>Penanda dan pengaturan disimpan pada peramban perangkat ini jika penyimpanan diizinkan.</p></div><button class="tool" id="clear-bookmark" type="button">Hapus penanda</button></div></div></section>
-</main></div><aside class="player" aria-label="Pemutar musik"><div class="now"><strong id="now-title">Api di Perapian</strong><small id="now-detail" role="status" aria-live="polite">Musik dijeda</small></div><div class="transport"><button class="primary" id="play" type="button" aria-pressed="false">Putar musik</button><button class="tool" id="mute" type="button" aria-label="Bisukan musik" aria-pressed="false">Bisu</button></div><div class="mix"><label for="volume">Volume</label><input id="volume" type="range" min="0" max="65" value="30" aria-valuetext="30 persen"></div></aside><div class="toast" id="toast" role="status" aria-live="polite" hidden></div>
+</main></div><aside class="player" aria-label="Pemutar musik"><div class="now"><strong id="now-title">Api di Perapian</strong><small id="now-detail" role="status" aria-live="polite">Musik dijeda</small></div><div class="transport"><button class="primary" id="play" type="button" aria-pressed="false">Putar musik</button><button class="tool" id="mute" type="button" aria-label="Bisukan musik" aria-pressed="false">Bisu</button></div><div class="mix"><label for="volume">Volume</label><input id="volume" type="range" min="0" max="65" value="30" aria-valuetext="30 persen"><button class="tool" id="auto-stop" type="button" hidden>Jeda baca</button></div></aside><div class="toast" id="toast" role="status" aria-live="polite" hidden></div>
 <script>const VAELORIA_CATALOG={"version":1,"title":"Epik Vaeloria — Ruang Musik","type":"Sketsa musik sintetis orisinal","note":"Rancangan musikal; judul dan kesan musik tidak menetapkan kanon cerita.","moods":{"keluarga":{"name":"Api di Perapian","description":"Petikan lembut, harmoni hangat, dan ruang bagi percakapan.","tempo":64,"root":50,"scale":[0,2,4,7,9],"chords":[[0,4,7],[5,9,12],[7,11,14],[0,4,7]],"melody":[0,2,4,2,1,0,null,1,2,4,3,2,1,0,null,null],"instrument":"pluck","pad":0.13,"bass":0.08,"lead":0.12,"drum":0,"color":"#d6b07a"},"istana":{"name":"Aula Mahkota","description":"Langkah terukur dan nada rendah di bawah melodi yang tertahan.","tempo":66,"root":45,"scale":[0,2,3,5,7,8,10],"chords":[[0,3,7],[5,8,12],[7,10,14],[0,3,7]],"melody":[0,null,4,3,2,null,1,null,0,2,4,null,5,4,2,null],"instrument":"horn","pad":0.15,"bass":0.1,"lead":0.1,"drum":0.05,"color":"#d6b974"},"perjalanan":{"name":"Jalan yang Terbentang","description":"Denyut ringan dan frasa lapang yang menemani langkah panjang.","tempo":88,"root":50,"scale":[0,2,5,7,9],"chords":[[0,5,7],[5,9,12],[7,12,14],[0,5,9]],"melody":[0,1,2,4,3,2,1,null,2,3,4,3,2,1,0,null],"instrument":"pluck","pad":0.1,"bass":0.08,"lead":0.13,"drum":0.05,"color":"#8eafa1"},"intrik":{"name":"Di Balik Tirai","description":"Petikan renggang dan interval sempit yang menyisakan ketegangan.","tempo":68,"root":45,"scale":[0,1,3,5,7,8,10],"chords":[[0,3,7],[1,5,8],[0,3,7],[7,10,14]],"melody":[0,null,1,null,4,3,null,1,0,null,5,4,null,2,1,null],"instrument":"pluck","pad":0.12,"bass":0.1,"lead":0.1,"drum":0,"color":"#aa93bf"},"perang":{"name":"Langkah Panji","description":"Perkusi rendah dan frasa pendek yang menambah tekanan.","tempo":100,"root":38,"scale":[0,2,3,5,7,8,10],"chords":[[0,7,12],[3,7,10],[5,12,17],[0,7,12]],"melody":[0,0,4,null,0,2,4,null,5,4,2,0,2,4,0,null],"instrument":"horn","pad":0.12,"bass":0.12,"lead":0.1,"drum":0.15,"color":"#cb806e"},"kehilangan":{"name":"Yang Tinggal dalam Sunyi","description":"Nada jarang, gema panjang, dan ruang untuk keheningan.","tempo":52,"root":45,"scale":[0,2,3,5,7,8,10],"chords":[[0,3,7],[5,8,12],[3,7,10],[0,3,7]],"melody":[4,null,3,null,2,null,0,null,1,null,0,null,null,null,null,null],"instrument":"bell","pad":0.12,"bass":0.05,"lead":0.09,"drum":0,"color":"#9baec7"},"mukjizat":{"name":"Dalam Doa","description":"Lapisan nada perlahan terbuka; tenang, terang, dan khidmat.","tempo":58,"root":50,"scale":[0,2,4,7,9],"chords":[[0,4,7],[5,9,12],[0,7,12],[0,4,9]],"melody":[0,null,2,null,3,null,4,null,3,2,null,1,0,null,null,null],"instrument":"bell","pad":0.16,"bass":0.05,"lead":0.1,"drum":0,"color":"#e2d49e"},"purwa":{"name":"Gema yang Tua","description":"Bunyi kayu dan dengung lembut dengan jarak nada yang lapang.","tempo":60,"root":43,"scale":[0,3,5,7,10],"chords":[[0,7,12],[5,12,17],[3,10,15],[0,7,10]],"melody":[0,null,3,2,null,1,null,0,4,null,3,null,1,0,null,null],"instrument":"wood","pad":0.14,"bass":0.08,"lead":0.12,"drum":0.035,"color":"#86b5ad"}},"motifs":{"griffin":{"name":"House Griffin","title":"Sumpah yang Dipegang","description":"Frasa naik tiga nada, lalu pulang pada nada dasar.","mood":"keluarga","tempo":68,"melody":[0,1,3,null,4,3,1,0,0,1,3,null,2,1,0,null],"instrument":"horn","color":"#cbb579"},"singa":{"name":"Cabang Singa","title":"Berat Sebuah Mahkota","description":"Nada rendah berulang, aksen tegas, dan sela hening.","mood":"istana","tempo":72,"melody":[0,0,null,4,3,null,2,0,0,null,4,5,4,2,0,null],"instrument":"horn","color":"#c98b70"},"radbod":{"name":"Radbod","title":"Langkah di Balik Layar","description":"Pola pendek yang kembali dengan satu nada berubah.","mood":"intrik","tempo":62,"melody":[0,1,null,4,0,1,null,3,0,1,null,5,4,2,1,null],"instrument":"pluck","color":"#b09bc9"},"bangsa_purwa":{"name":"Bangsa Purwa","title":"Ingatan Hutan","description":"Motif lima nada, pukulan kayu, dan dengung lembut.","mood":"purwa","tempo":58,"melody":[0,2,null,3,4,null,2,0,0,null,2,3,null,1,0,null],"instrument":"wood","color":"#88b5a5"}}};
 /* Epik Vaeloria. Original procedural score; no external samples. */
 (function(global){
@@ -230,34 +268,206 @@ global.VaeloriaReaderMusic=VaeloriaReaderMusic;
 "use strict";
 class VaeloriaReaderState{
  constructor(storage){this.storage=storage;this.persisted=true;this.key="vaeloria-reader-v1";this.data=this.defaults();this.load();}
- defaults(){return{appearance:2,theme:"dusk",font:20,motion:true,volume:.3,follow:true,bookmark:null};}
+ defaults(){return{readMode:"scroll",readSpeed:3,appearance:2,theme:"dusk",font:20,motion:true,volume:.3,follow:true,bookmark:null};}
  load(){
   try{
    const raw=JSON.parse(this.storage.getItem(this.key)||"null");
    if(!raw||typeof raw!=="object")return;
    if(["dusk","dark","sepia"].includes(raw.theme))this.data.theme=raw.theme==="dark"&&raw.appearance!==2?"dusk":raw.theme;
+   if(raw.readMode==="book"||raw.readMode==="scroll")this.data.readMode=raw.readMode;
+   if(Number.isFinite(raw.readSpeed))this.data.readSpeed=Math.max(1,Math.min(5,Math.round(raw.readSpeed)));
    if(Number.isFinite(raw.font))this.data.font=Math.max(16,Math.min(26,Math.round(raw.font)));
    if(Number.isFinite(raw.volume))this.data.volume=Math.max(0,Math.min(.65,raw.volume));
    if(typeof raw.motion==="boolean")this.data.motion=raw.motion;
    if(typeof raw.follow==="boolean")this.data.follow=raw.follow;
-   if(raw.bookmark&&Number.isInteger(raw.bookmark.scene)&&raw.bookmark.scene>=0&&raw.bookmark.scene<8)this.data.bookmark={scene:raw.bookmark.scene};
+   if(raw.bookmark&&Number.isInteger(raw.bookmark.scene)&&raw.bookmark.scene>=0&&raw.bookmark.scene<8)this.data.bookmark={scene:raw.bookmark.scene,...(Number.isInteger(raw.bookmark.bookPage)&&raw.bookmark.bookPage>=0?{bookPage:raw.bookmark.bookPage}:{})};
   }catch(_){this.persisted=false;}
  }
  save(){try{this.storage.setItem(this.key,JSON.stringify(this.data));this.persisted=true;return true;}catch(_){this.persisted=false;return false;}}
  set(name,value){
-  if(name==="font")this.data.font=Math.max(16,Math.min(26,Math.round(Number(value)||20)));
+  if(name==="readMode")this.data.readMode=value==="book"?"book":"scroll";
+  else if(name==="readSpeed")this.data.readSpeed=Math.max(1,Math.min(5,Math.round(Number(value)||3)));
+  else if(name==="font")this.data.font=Math.max(16,Math.min(26,Math.round(Number(value)||20)));
   else if(name==="volume")this.data.volume=Math.max(0,Math.min(.65,Number(value)||0));
   else if(name==="theme")this.data.theme=["dusk","dark","sepia"].includes(value)?value:"dusk";
   else if(name==="motion"||name==="follow")this.data[name]=!!value;
   else return false;
   return this.save();
  }
- mark(scene){if(!Number.isInteger(scene)||scene<0||scene>7)return false;this.data.bookmark={scene};return this.save();}
+ mark(scene,bookPage){if(!Number.isInteger(scene)||scene<0||scene>7)return false;this.data.bookmark={scene,...(Number.isInteger(bookPage)&&bookPage>=0?{bookPage}:{})};return this.save();}
  clearBookmark(){this.data.bookmark=null;return this.save();}
 }
 global.VaeloriaReaderState=VaeloriaReaderState;
 })(typeof window!=="undefined"?window:globalThis);
 
+
+/* Two reading layouts with explicit, cancellable automatic reading. */
+(function(global){
+"use strict";
+class VaeloriaReadingModes{
+ constructor({state,reader,viewport,shell,onChange=()=>{}}){
+  this.state=state;this.reader=reader;this.viewport=viewport;this.shell=shell;this.onChange=onChange;
+  this.mode=state.data.readMode;this.active=false;this.page=0;this.total=1;this.visible=1;this.step=1;
+  this.running=false;this.frame=0;this.elapsed=0;this.lastTime=0;this.layoutTimer=0;this.pointer=null;this.layoutWidth=0;
+  this.scenes=[...reader.querySelectorAll(".scene")];
+  this.el=id=>document.getElementById(id);
+  this.tick=this.tick.bind(this);
+  this.el("mode-scroll").addEventListener("click",()=>this.setMode("scroll"));
+  this.el("mode-book").addEventListener("click",()=>this.setMode("book"));
+  this.el("auto-read").addEventListener("click",()=>this.running?this.stop("Baca otomatis dijeda."):this.start());
+  this.el("auto-stop").addEventListener("click",()=>{this.stop("Baca otomatis dijeda.");this.viewport.focus({preventScroll:true});});
+  this.el("read-speed").addEventListener("input",e=>{state.set("readSpeed",Number(e.target.value));this.elapsed=0;this.controls();});
+  this.el("page-prev").addEventListener("click",()=>this.turn(-1,true));
+  this.el("page-next").addEventListener("click",()=>this.turn(1,true));
+  viewport.addEventListener("pointerdown",e=>{if(!e.isPrimary)return;this.pointer={x:e.clientX,y:e.clientY};if(this.running)this.stop("Baca otomatis dijeda untuk kendali manual.");});
+  viewport.addEventListener("pointerup",e=>{if(!this.pointer)return;const dx=e.clientX-this.pointer.x,dy=e.clientY-this.pointer.y;this.pointer=null;if(this.mode==="book"&&Math.abs(dx)>45&&Math.abs(dx)>Math.abs(dy)*1.4)this.turn(dx<0?1:-1,true);});
+  viewport.addEventListener("pointercancel",()=>{this.pointer=null;});
+  global.addEventListener("keydown",e=>{
+   if(!this.active||e.target.closest("input,select,textarea,[contenteditable=true]"))return;
+   if(e.key==="Escape"){this.stop("Baca otomatis dijeda.");return;}
+   if(this.mode==="book"&&["ArrowRight","ArrowLeft","PageDown","PageUp"].includes(e.key)){e.preventDefault();this.turn(["ArrowRight","PageDown"].includes(e.key)?1:-1,true);}
+   else if(this.running&&[" ","ArrowDown","ArrowUp","PageDown","PageUp","Home","End"].includes(e.key))this.stop("Baca otomatis dijeda untuk kendali manual.");
+  });
+  global.addEventListener("wheel",()=>{if(this.running)this.stop("Baca otomatis dijeda untuk kendali manual.");},{passive:true});
+  global.addEventListener("touchstart",e=>{if(this.running&&!e.target.closest("#auto-read,#read-speed"))this.stop("Baca otomatis dijeda untuk kendali manual.");},{passive:true});
+  document.addEventListener("visibilitychange",()=>{if(document.hidden)this.stop("Baca otomatis dijeda saat tab ditinggalkan.");});
+  global.addEventListener("pagehide",()=>this.stop());
+  global.addEventListener("resize",()=>this.queueLayout());
+  if("ResizeObserver" in global)new ResizeObserver(()=>{
+   const width=Math.round(viewport.clientWidth);
+   if(width&&width!==this.layoutWidth){this.layoutWidth=width;this.queueLayout();}
+  }).observe(viewport);
+  this.applyMode();this.controls();
+ }
+ setActive(value){
+  this.active=value;
+  if(!value){this.stop();clearTimeout(this.layoutTimer);return;}
+  this.queueLayout();
+ }
+ setMode(mode){
+  if(mode===this.mode)return;
+  const anchor=this.sceneIndex();this.stop();this.mode=mode==="book"?"book":"scroll";this.state.set("readMode",this.mode);this.applyMode();
+  requestAnimationFrame(()=>{if(this.mode==="book"){this.layout();this.goScene(anchor);}else{this.reader.style.transform="";this.scenes[anchor]?.scrollIntoView({block:"start",behavior:"instant"});}this.controls();this.onChange();});
+  this.status(this.mode==="book"?"Geser kiri–kanan, gunakan panah, atau aktifkan halaman otomatis.":"Gulir sendiri atau tekan Mulai otomatis.");
+ }
+ applyMode(){
+  this.shell.classList.toggle("book-mode",this.mode==="book");
+  this.el("mode-scroll").setAttribute("aria-pressed",String(this.mode==="scroll"));
+  this.el("mode-book").setAttribute("aria-pressed",String(this.mode==="book"));
+  this.viewport.setAttribute("aria-label",this.mode==="book"?"Buku dongeng. Gunakan panah kiri dan kanan untuk berpindah halaman.":"Isi bacaan");
+  if(this.mode==="scroll"){this.reader.style.transform="";this.shell.classList.remove("two-pages");}
+ }
+ controls(){
+  const speed=this.state.data.readSpeed,labels=["Sangat pelan","Pelan","Normal","Cepat","Sangat cepat"];
+  this.el("read-speed").value=speed;
+  this.el("read-speed-label").textContent=this.mode==="book"?this.seconds()+" dtk / giliran":labels[speed-1];
+  this.el("read-speed").setAttribute("aria-valuetext",this.mode==="book"?this.seconds()+" detik setiap pergantian halaman":labels[speed-1]);
+  this.el("auto-read").textContent=this.running?"Jeda otomatis":"Mulai otomatis";
+  this.el("auto-read").setAttribute("aria-pressed",String(this.running));
+  this.el("auto-stop").hidden=!this.running;
+ }
+ seconds(){return[45,30,20,12,6][this.state.data.readSpeed-1];}
+ pixelsPerSecond(){return[7,12,18,27,40][this.state.data.readSpeed-1];}
+ status(message){if(message)this.el("reading-status").textContent=message;}
+ queueLayout(){
+  if(!this.active||this.mode!=="book")return;
+  const anchor=this.sceneIndex(),front=this.page===0;
+  clearTimeout(this.layoutTimer);
+  this.layoutTimer=setTimeout(()=>{this.layout();if(!front)this.goScene(anchor);this.onChange();},90);
+ }
+ layout(){
+  if(!this.active||this.mode!=="book"||!this.viewport.clientWidth)return;
+  this.reader.classList.add("reflowing");
+  const width=this.viewport.clientWidth,pad=parseFloat(getComputedStyle(this.viewport).paddingLeft)||32;
+  this.visible=width>=780?2:1;
+  // Column start distance = one paper leaf, including its two margins.
+  this.step=width/this.visible;
+  const column=this.step-pad*2;
+  this.shell.style.setProperty("--column-width",column+"px");this.shell.style.setProperty("--visible-pages",String(this.visible));
+  this.shell.classList.toggle("two-pages",this.visible===2);
+  this.reader.style.transform="none";
+  const gap=pad*2;
+  this.total=Math.max(1,Math.round((this.reader.scrollWidth+gap)/(column+gap)));
+  this.page=Math.min(Math.floor(this.page/this.visible)*this.visible,this.maxPage());
+  this.paint();
+  requestAnimationFrame(()=>this.reader.classList.remove("reflowing"));
+ }
+ maxPage(){return Math.floor((this.total-1)/this.visible)*this.visible;}
+ paint(){
+  if(this.mode!=="book")return;
+  this.reader.style.transform="translateX("+(-this.page*this.step)+"px)";
+  const end=Math.min(this.page+this.visible,this.total);
+  this.el("page-label").textContent="Halaman "+(this.page+1)+(end>this.page+1?"–"+end:"")+" / "+this.total;
+  this.el("page-prev").disabled=this.page===0;this.el("page-next").disabled=this.page>=this.maxPage();
+  this.viewport.dataset.page=String(this.page+1);this.viewport.dataset.totalPages=String(this.total);
+  this.onChange();
+ }
+ turn(direction,manual){
+  if(this.mode!=="book"||!this.active)return;
+  if(manual)this.stop("Halaman diganti secara manual.");
+  const next=Math.max(0,Math.min(this.maxPage(),this.page+direction*this.visible));
+  if(next===this.page){if(this.running)this.stop("Selesai. Akhir bacaan sudah tercapai.");return;}
+  this.page=next;this.elapsed=0;this.paint();
+ }
+ sceneIndex(){
+  if(!this.scenes.length)return 0;
+  if(this.mode==="book"){
+   const left=this.page*this.step;let index=0;
+   const origin=this.reader.getBoundingClientRect().left;
+   this.scenes.forEach((s,i)=>{const x=s.getBoundingClientRect().left-origin;if(x<=left+this.step*.55)index=i;});
+   return index;
+  }
+  let best=0,dist=Infinity;const line=innerHeight*.42;
+  this.scenes.forEach((s,i)=>{const r=s.getBoundingClientRect(),d=r.top<=line&&r.bottom>=line?0:Math.min(Math.abs(r.top-line),Math.abs(r.bottom-line));if(d<dist){dist=d;best=i;}});
+  return best;
+ }
+ goScene(index){
+  if(this.mode!=="book")return;
+  const scene=this.scenes[index];if(!scene)return;
+  const x=scene.getBoundingClientRect().left-this.reader.getBoundingClientRect().left;
+  this.page=Math.max(0,Math.min(this.maxPage(),Math.floor((x+1)/this.step/this.visible)*this.visible));this.paint();
+ }
+ resume(mark){
+  if(!mark)return;
+  clearTimeout(this.layoutTimer);
+  if(this.mode==="book"){this.layout();if(Number.isInteger(mark.bookPage)){this.page=Math.min(this.maxPage(),Math.floor(mark.bookPage/this.visible)*this.visible);this.paint();}else this.goScene(mark.scene);}
+  else this.scenes[mark.scene]?.scrollIntoView({block:"start",behavior:"instant"});
+ }
+ start(){
+  if(!this.active||this.running)return;
+  if(this.mode==="book")this.layout();
+  this.running=true;this.elapsed=0;this.lastTime=0;this.scrollPosition=scrollY;
+  if(this.mode==="scroll"){
+   const top=this.reader.getBoundingClientRect().top+scrollY-(parseFloat(getComputedStyle(document.documentElement).getPropertyValue("--toolbar-height"))||70)-14;
+   if(scrollY<top){scrollTo({top,behavior:"instant"});this.scrollPosition=scrollY;}
+  }
+  if(this.mode==="book"){const top=this.shell.getBoundingClientRect().top+scrollY-(parseFloat(getComputedStyle(document.documentElement).getPropertyValue("--toolbar-height"))||70)-12;scrollTo({top:Math.max(0,top),behavior:"instant"});}
+  this.controls();this.status(this.mode==="book"?"Halaman berganti otomatis. Tekan Jeda otomatis kapan saja.":"Bacaan bergulir otomatis. Gulir manual atau tekan Jeda otomatis untuk berhenti.");
+  this.frame=requestAnimationFrame(this.tick);
+ }
+ stop(message){
+  this.running=false;cancelAnimationFrame(this.frame);this.frame=0;this.lastTime=0;this.elapsed=0;
+  this.el("auto-page-progress").style.width="0%";this.controls();this.status(message);
+ }
+ tick(time){
+  if(!this.running||!this.active||document.hidden){this.stop();return;}
+  const dt=this.lastTime?Math.min(time-this.lastTime,100):0;this.lastTime=time;
+  if(this.mode==="book"){
+   this.elapsed+=dt;this.el("auto-page-progress").style.width=Math.min(100,this.elapsed/(this.seconds()*10))+"%";
+   if(this.elapsed>=this.seconds()*1000)this.turn(1,false);
+  }else{
+   const player=document.querySelector(".player").getBoundingClientRect().height;
+   const end=Math.min(document.documentElement.scrollHeight-innerHeight,scrollY+this.reader.getBoundingClientRect().bottom-innerHeight+player+22);
+   this.scrollPosition=Math.min(end,this.scrollPosition+this.pixelsPerSecond()*dt/1000);
+   scrollTo({top:this.scrollPosition,behavior:"instant"});
+   if(scrollY>=end-1)this.stop("Selesai. Akhir bacaan sudah tercapai.");
+   this.onChange();
+  }
+  if(this.running)this.frame=requestAnimationFrame(this.tick);
+ }
+}
+global.VaeloriaReadingModes=VaeloriaReadingModes;
+})(typeof window!=="undefined"?window:globalThis);
 
 "use strict";
 const $=s=>document.querySelector(s);
@@ -268,6 +478,8 @@ const follower=new VaeloriaReaderMusic(audio,$("#reader"));
 const panels=["home","read","music","settings"];
 const labels={home:"Beranda",read:"Ruang baca",music:"Ruang musik",settings:"Pengaturan"};
 let current="home",busy=false,toastTimer=0,scrollFrame=0;
+const readingModes=new VaeloriaReadingModes({state,reader:$("#reader"),viewport:$("#book-viewport"),shell:$("#book-shell"),onChange:()=>{syncReadingMusic();requestProgress();}});
+function syncReadingMusic(){if(current!=="read"||!state.data.follow){follower.stop();return;}if(readingModes.mode==="scroll")follower.start();else{follower.stop();const scene=follower.scenes[readingModes.sceneIndex()];if(scene){audio.choose(scene.dataset.mood);for(const s of follower.scenes)s.classList.toggle("active",s===scene);}}}
 function notify(message){const t=$("#toast");clearTimeout(toastTimer);t.textContent=message;t.hidden=false;toastTimer=setTimeout(()=>{t.hidden=true;},4000);}
 function persistResult(ok){if(!ok)notify("Peramban membatasi penyimpanan. Pengaturan berlaku selama sesi ini.");}
 function applySettings(){
@@ -279,7 +491,7 @@ function applySettings(){
  $("#follow-button").setAttribute("aria-pressed",String(d.follow));
  $("#follow-button").textContent=d.follow?"Musik adegan: aktif":"Musik adegan: mati";
  audio.setVolume(d.volume);$("#volume").value=Math.round(d.volume*100);$("#volume").setAttribute("aria-valuetext",Math.round(d.volume*100)+" persen");
- if(current==="read"&&d.follow)follower.start();else follower.stop();
+ syncReadingMusic();readingModes.queueLayout();
  if(!d.follow)for(const s of follower.scenes)s.classList.remove("active");
 }
 function drawAudio(){
@@ -299,6 +511,7 @@ async function play(){
 function focusMode(on){
  document.body.classList.toggle("focus",on);$("#focus-button").setAttribute("aria-pressed",String(on));
  $("#focus-button").textContent=on?"Keluar fokus":"Mode fokus";
+ readingModes.queueLayout();
 }
 function show(view,{resume=false}={}){
  if(!panels.includes(view))view="home";current=view;focusMode(false);
@@ -308,14 +521,15 @@ function show(view,{resume=false}={}){
  }
  $("#view-label").textContent=labels[view];document.title=labels[view]+" · Epik Vaeloria";
  $("#sidebar").classList.remove("open");$("#menu-toggle").setAttribute("aria-expanded","false");
- if(view==="read"&&state.data.follow)follower.start();else follower.stop();
+ readingModes.setActive(view==="read");syncReadingMusic();
  const newHash="#"+view;if(location.hash!==newHash){const routeURL=new URL(window.location.href);routeURL.hash=newHash;try{history.replaceState(null,"",routeURL.href);}catch(_){}}
  window.scrollTo({top:0,behavior:"instant"});
  const title=$("#panel-"+view+" [data-heading]");if(title)title.focus({preventScroll:true});
- if(resume&&state.data.bookmark)requestAnimationFrame(()=>{const s=follower.scenes[state.data.bookmark.scene];if(s)s.scrollIntoView({block:"start",behavior:"instant"});follower.queue();});
+ if(resume&&state.data.bookmark)requestAnimationFrame(()=>{readingModes.resume(state.data.bookmark);follower.queue();});
  requestProgress();
 }
 function nearestScene(){
+ if(readingModes.mode==="book")return readingModes.sceneIndex();
  let index=0,distance=Infinity;
  follower.scenes.forEach((s,i)=>{const r=s.getBoundingClientRect(),line=innerHeight*.42;const d=r.top<=line&&r.bottom>=line?0:Math.min(Math.abs(r.top-line),Math.abs(r.bottom-line));if(d<distance){distance=d;index=i;}});
  return index;
@@ -327,7 +541,7 @@ function refreshBookmark(){
 }
 function updateProgress(){
  scrollFrame=0;if(current!=="read")return;
- const r=$("#reader").getBoundingClientRect(),v=Math.max(0,Math.min(100,(innerHeight*.42-r.top)/r.height*100));
+ const r=$("#reader").getBoundingClientRect(),v=readingModes.mode==="book"?Math.min(100,(readingModes.page+readingModes.visible)/readingModes.total*100):Math.max(0,Math.min(100,(innerHeight*.42-r.top)/r.height*100));
  $("#progress-fill").style.width=v+"%";$("#read-progress").setAttribute("aria-valuenow",String(Math.round(v)));$("#progress-label").textContent=Math.round(v)+"%";
 }
 function requestProgress(){if(!scrollFrame)scrollFrame=requestAnimationFrame(updateProgress);}
@@ -335,7 +549,7 @@ document.querySelectorAll("[data-nav]").forEach(b=>b.addEventListener("click",()
 document.querySelectorAll("[data-open]").forEach(b=>b.addEventListener("click",()=>show(b.dataset.open)));
 $("#resume").addEventListener("click",()=>show("read",{resume:true}));
 $("#bookmark").addEventListener("click",()=>{
- const ok=state.mark(nearestScene());refreshBookmark();
+ const ok=state.mark(nearestScene(),readingModes.mode==="book"?readingModes.page:undefined);refreshBookmark();
  notify(ok?"Posisi baca ditandai di perangkat ini.":"Penanda berlaku selama sesi ini; peramban membatasi penyimpanan.");
 });
 $("#clear-bookmark").addEventListener("click",()=>{const ok=state.clearBookmark();refreshBookmark();notify(ok?"Penanda dihapus.":"Penanda dihapus untuk sesi ini.");});
@@ -364,7 +578,8 @@ window.addEventListener("pageshow",e=>{if(e.persisted)audio.resumeVisible().catc
 document.querySelectorAll('a[href^="#"]').forEach(a=>a.addEventListener("click",e=>{const target=document.getElementById(a.getAttribute("href").slice(1));if(target){e.preventDefault();target.scrollIntoView({block:"start"});}}));
 if(location.hostname==="htmlpreview.github.io"){const link=document.querySelector('a[href="musik.html"]');if(link)link.href="https://htmlpreview.github.io/?https://raw.githubusercontent.com/Daniel100703/Epik-Vaeloria/main/musik.html";}
 if("ResizeObserver" in window){new ResizeObserver(entries=>{const height=entries[0].target.getBoundingClientRect().height;if(height)document.documentElement.style.setProperty("--toolbar-height",Math.ceil(height)+"px");}).observe($(".toolbar"));}
+if("ResizeObserver" in window){new ResizeObserver(entries=>document.documentElement.style.setProperty("--player-height",Math.ceil(entries[0].target.getBoundingClientRect().height)+"px")).observe($(".player"));}
 applySettings();refreshBookmark();drawAudio();show(location.hash.slice(1)||"home");
-window.vaeloriaDashboard={audio,follower,state,show};
+window.vaeloriaDashboard={audio,follower,state,show,readingModes};
 
 </script></body></html>
