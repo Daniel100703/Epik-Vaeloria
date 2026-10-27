@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="id"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#2c1b13"><title>Ruang Baca — Epik Vaeloria</title><link rel="stylesheet" href="assets/css/storybook.css"><link rel="stylesheet" href="assets/css/style.css"></head>
+<body class="reader" data-mode="buku">
+<a class="skip" href="#reading">Langsung ke cerita</a>
+<header class="readerbar">
+<a class="wordmark" href="index.html" aria-label="Beranda Epik Vaeloria"><span class="sigil">V</span><span class="brand-name">EPIK VAELORIA</span></a>
+<label class="chapter-switch"><span class="sr-only">Pilih bab</span><select id="chapterSelect" aria-label="Pilih bab"><option>Memuat bab…</option></select></label>
+<div class="mode-switch" aria-label="Mode membaca"><button id="modeScroll" aria-pressed="false">Gulir</button><button id="modeBook" aria-pressed="true">Buku</button></div>
+<button class="icon-button" id="musicToggle" aria-pressed="true" title="Musik nyala/mati">♪ <span>Musik nyala</span></button>
+<button class="icon-button settings-trigger" id="settingsButton" aria-label="Pengaturan bacaan" title="Pengaturan">☷</button>
+</header>
+<main id="reading" tabindex="-1">
+<div id="loadState" role="status">Membuka kisah…</div>
+<article id="scrollReader" class="scroll-reader" hidden></article>
+<section id="bookReader" class="desk" aria-label="Buku dongeng di atas meja kayu" hidden>
+<div class="candle" aria-hidden="true"><i class="flame"></i><i class="wax"></i><i class="saucer"></i></div>
+<div class="desk-inscription" aria-hidden="true">CHRONICA VAELORIA</div>
+<div class="book" id="book"><div class="ribbon" aria-hidden="true"></div><div class="spread" id="spread"><div class="page left" id="L"></div><div class="page right" id="R"></div></div></div>
+<div class="book-nav"><button id="prev" aria-label="Halaman sebelumnya">←</button><span id="pagePosition" aria-live="polite"></span><button id="next" aria-label="Halaman berikutnya">→</button></div>
+</section>
+</main>
+<footer class="reading-footer"><span id="musicState" class="music-state" role="status">Musik siap mengikuti bacaan</span><div class="reading-actions"><button id="autoRead" aria-pressed="false">▷ Baca otomatis</button><button id="bookmark" aria-label="Simpan penanda bacaan" title="Simpan penanda bacaan">♧ <span>Tandai</span></button><button id="castButton">Tokoh</button></div><span id="progressText">0%</span><div class="reading-progress"><i id="progressBar"></i></div></footer>
+<dialog id="settingsDialog" class="settings-dialog"><button class="close" data-close aria-label="Tutup pengaturan">×</button><p class="eyebrow">KENYAMANAN MEMBACA</p><h2>Atur ruang bacamu</h2><label>Ukuran tulisan <output id="fontValue">18 px</output><input id="fontSize" type="range" min="16" max="24" value="18"></label><label>Volume musik <output id="volumeValue">30%</output><input id="volume" type="range" min="0" max="65" value="30"></label><label>Kecepatan baca otomatis <output id="speedValue">180 kata/menit</output><input id="speed" type="range" min="80" max="360" step="10" value="180"></label><label class="check"><input id="motionToggle" type="checkbox" checked> Gerak ilustrasi dan balik halaman</label><div class="settings-links"><button id="restoreBookmark">Kembali ke penanda</button><button id="restartChapter">Awal bab</button><button id="musicRoom">Ruang musik</button></div></dialog>
+<dialog id="castDialog" class="cast-dialog"><button class="close" data-close aria-label="Tutup tokoh">×</button><p class="eyebrow">TOKOH DALAM BAB INI</p><h2 id="castTitle">Wajah-wajah Vaeloria</h2><div id="castGrid" class="cast-grid"></div></dialog>
+<dialog id="musicDialog" class="music-dialog"><button class="close" data-close aria-label="Tutup ruang musik">×</button><p class="eyebrow">IRINGAN VAELORIA</p><h2>Ruang musik</h2><p class="dialog-note">Pilih iringan untuk didengarkan. Tutup ruang ini untuk kembali mengikuti kisah.</p><div id="musicGrid" class="music-grid"></div></dialog>
+<dialog id="artDialog" class="art-dialog"><button class="close" data-close aria-label="Tutup ilustrasi">×</button><figure><img id="artFull" alt=""><figcaption id="artCaption"></figcaption></figure></dialog>
+<noscript><p class="error">Aktifkan JavaScript untuk membuka mode buku. Naskah juga tersedia di <a href="chapters/01-kutukan-tiga-ibu.md">Prolog</a> dan <a href="chapters/02-bab-01-malam-dua-pintu.md">Bab 1</a>.</p></noscript>
+<script src="assets/js/common.js"></script><script src="assets/js/vaeloria-score.js"></script><script src="assets/js/reader.js"></script>
+</body></html>

@@ -1,0 +1,96 @@
+{
+  "bab": [
+    {
+      "id": "prolog",
+      "nomor": 0,
+      "label": "Prolog",
+      "judul": "Kutukan Tiga Ibu",
+      "lokasi": "Lembah Rhenus",
+      "tahun": "Tahun Nol",
+      "pov": "Meroveus",
+      "kata": 2742,
+      "file": "chapters/01-kutukan-tiga-ibu.md",
+      "gambar": "assets/img/prolog-rhenus.webp",
+      "ringkasan": "Di tepi Rhenus, sebuah kemenangan menuntut sumpah dan pengantin perdamaian.",
+      "pembuka": 4,
+      "seni": [
+        {
+          "gambar": "prolog-rhenus.webp",
+          "caption": "Meroveus di tepi Rhenus.",
+          "efek": "kabut",
+          "fokus": "48% 50%"
+        },
+        {
+          "gambar": "prolog-rhenus.webp",
+          "caption": "Fafnaris dan sumpah Takhta Singa.",
+          "efek": "kabut",
+          "fokus": "68% 50%"
+        },
+        {
+          "gambar": "prolog-rhenus.webp",
+          "caption": "Tiga Ibu di hadapan sang pemenang.",
+          "efek": "kabut",
+          "fokus": "65% 50%"
+        },
+        {
+          "gambar": "prolog-ingund.webp",
+          "caption": "Ingund, pengantin perdamaian.",
+          "efek": "senja",
+          "fokus": "35% 50%"
+        },
+        {
+          "gambar": "prolog-ingund.webp",
+          "caption": "Dari sungai menuju perkemahan manusia.",
+          "efek": "senja",
+          "fokus": "48% 50%"
+        }
+      ]
+    },
+    {
+      "id": "bab-1",
+      "nomor": 1,
+      "label": "Bab 1",
+      "judul": "Malam Dua Pintu",
+      "lokasi": "Basileon",
+      "tahun": "AM 81",
+      "pov": "Eudoxia",
+      "kata": 3119,
+      "file": "chapters/02-bab-01-malam-dua-pintu.md",
+      "gambar": "assets/img/bab01-keluarga.webp",
+      "ringkasan": "Di kamar bersalin istana, Eudoxia menunggu suaminya. Dari lorong terdengar langkah pengawal yang asing.",
+      "pembuka": 3,
+      "seni": [
+        {
+          "gambar": "bab01-keluarga.webp",
+          "caption": "Eudoxia bersama ketiga anaknya.",
+          "efek": "lilin",
+          "fokus": "65% 50%"
+        },
+        {
+          "gambar": "bab01-sampul.webp",
+          "caption": "Dua saudara, satu takhta Timur.",
+          "efek": "lilin",
+          "fokus": "50% 50%"
+        },
+        {
+          "gambar": "bab01-keluarga.webp",
+          "caption": "Sebuah keluarga di ambang perpisahan.",
+          "efek": "lilin",
+          "fokus": "65% 50%"
+        },
+        {
+          "gambar": "bab01-sampul.webp",
+          "caption": "Bayang perebutan takhta di Basileon.",
+          "efek": "lilin",
+          "fokus": "50% 50%"
+        },
+        {
+          "gambar": "bab01-pelarian.webp",
+          "caption": "Para pelayan membawa bayi keluar dari kota.",
+          "efek": "kabut",
+          "fokus": "35% 50%"
+        }
+      ]
+    }
+  ]
+}

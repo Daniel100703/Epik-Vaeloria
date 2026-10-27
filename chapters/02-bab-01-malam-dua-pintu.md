@@ -1,485 +1,213 @@
 # Bab 1 — Malam Dua Pintu
 
-*Basileon, AM 81 · Babak I: Darah Timur · Draf pertama*
+*Basileon · AM 81*
 
-::: adegan istana
-## I. Raja yang menunggu
-### Ansbert
-
-Di ruang dewan Basileon, kabar tentang seorang putra tiba di antara laporan gandum dan permohonan penggantian kuda perang.
-
-Ansbert membaca kalimat terakhir pada lembar di tangannya dua kali sebelum mengerti apa yang dikatakan pelayan itu. Kemudian ia meletakkannya terbalik.
-
-“Permaisuri?”
-
-“Selamat, Yang Mulia. Beliau meminta Paduka menunggu sampai dipanggil.”
-
-Seorang anggota dewan tertawa lega. Yang lain mulai mengucapkan berkat. Ansbert menerima semuanya sambil menatap pintu. Ia ingin melewati mereka, mendaki tangga menuju kamar Eudoxia, lalu melihat dengan matanya sendiri bahwa kata selamat itu benar.
-
-Namun di ujung meja masih ada dua orang yang membawa urusan perbatasan. Salah satunya belum melepaskan mantel perjalanan.
-
-“Putra lagi, Paduka?” tanya orang tersebut.
-
-Ansbert mengangguk.
-
-“Semoga panjang umur.”
-
-Ucapan itu terdengar tulus. Justru karena tulus, Ansbert merasa malu telah berharap mereka segera pergi.
-
-Ia mengambil kembali laporan tadi. Di dalamnya, perwira meminta kuda baru untuk menggantikan hewan yang mati di jalan. Pada lembar sebelumnya, pengawas gudang menjelaskan mengapa gandum tidak dapat dikirim sebelum pungutan pelabuhan masuk. Semua orang mempunyai alasan yang masuk akal. Kuda-kuda tetap mati.
-
-“Keluarkan dari persediaan istana,” katanya.
-
-Juru tulis mengangkat pena.
-
-“Berapa ekor, Yang Mulia?”
-
-Ansbert menunjuk angka pada laporan. “Sebanyak ini.”
-
-Keberatan segera datang: persediaan istana juga terbatas, penggantian membutuhkan waktu, upacara membutuhkan tunggangan yang layak. Ia mendengarkan sampai orang terakhir selesai, lalu mengulang perintahnya.
-
-Di dinding belakangnya tergantung naga merah Cabang Fajar. Kainnya baru dibersihkan. Warna merah itu begitu utuh sehingga Ansbert teringat panji-panji yang pulang bersama adiknya—berlubang, pudar, berbau hujan meski telah berminggu-minggu disimpan.
-
-“Panggil Chararic,” katanya. “Aku ingin mendengar sendiri apa yang dibutuhkannya.”
-
-Orang bermantel perjalanan itu ragu.
-
-“Beliau sudah berada di istana, Paduka.”
-
-Ansbert menunggu penjelasan berikutnya. Tidak ada.
-
-Dari halaman terdengar pergantian jaga. Sepatu besi menghentak dalam irama yang lebih rapat daripada biasanya.
-
-Ia menyuruh dewan menunggu sebentar dan berjalan ke jendela.
-
-Di bawah sana, prajurit-prajurit dengan mantel perjalanan sedang mengambil tempat di pintu gerbang. Ansbert mengenali warna mereka. Pasukan adiknya.
-
-Ia mengira Chararic sedang mempersiapkan penghormatan bagi kelahiran anaknya.
-:::
-
-::: adegan intrik
-## II. Ramalan di ruang sempit
-### Chararic
-
-Chararic tidak menyukai bau dupa. Di kemah, asap berarti kayu basah, daging hangus, atau sesuatu yang harus segera ditinggalkan. Di istana, orang membakarnya agar ruangan yang tidak pernah kekurangan udara berbau lebih mahal.
-
-Dukun itu duduk di sisi pelita, memegang sebuah tongkat pendek yang ujungnya dililit logam. Sepanjang pembicaraan, jari-jarinya tidak pernah meninggalkan benda tersebut.
-
-“Katakan sekali lagi,” ujar Chararic.
-
-“Anak laki-laki yang lahir hari ini akan menumpahkan darahmu.”
-
-Di luar, orang-orang sedang merayakan kelahiran putra raja.
-
-Chararic menoleh ke pintu. Seorang pengawal berdiri di sana dengan punggung lurus dan wajah yang sengaja dibuat kosong. Chararic tahu orang itu mendengar. Pada malam seperti ini, tidak ada kalimat yang tetap tinggal di dalam ruangan tempat ia diucapkan.
-
-“Anak kakakku?”
-
-Dukun itu mengangkat pandangannya.
-
-“Hamba mengatakan yang hamba lihat.”
-
-“Aku bertanya siapa.”
-
-“Seorang anak laki-laki yang lahir hari ini.”
-
-Chararic ingin menamparnya. Ia juga ingin mendengar kalimat yang berbeda. Kemarahan membuat kedua keinginan itu terasa sama.
-
-Berbulan-bulan di perbatasan, ia telah menghitung persediaan dengan cara yang tidak pernah dipelajari para penulis istana. Segenggam gandum berarti berapa hari seorang penunggang masih sanggup duduk di pelana. Satu kuda berarti berapa orang yang dapat ditarik dari pengejaran. Surat balasan Ansbert selalu datang dengan cap yang sempurna. Gandumnya sering terlambat.
-
-Ia telah pulang dengan niat menuntut sesuatu: jabatan yang tidak dapat disingkirkan dewan, kuasa atas persediaan, hak memerintah tanpa harus memohon kepada orang yang tidak pernah melihat tanah perbatasan.
-
-Kini seluruh kota seolah sedang merayakan orang yang kelak akan membunuhnya.
-
-“Pangeran,” kata pengawalnya, “raja memanggil Paduka.”
-
-Chararic mengusap wajah. Ia belum tidur sejak tiba. Pada telapak tangannya tertinggal debu dari perjalanan, meskipun ia telah mencucinya.
-
-“Siapa memegang gerbang?”
-
-Pengawal itu menjawab tanpa perlu berpikir.
-
-Chararic bertanya tentang tangga dalam, gudang senjata, jalan menuju kamar raja. Jawaban-jawabannya juga telah tersedia. Ia mendengarkan satu demi satu dan merasakan sesuatu yang dingin menjadi tertib di dalam dirinya.
-
-“Jangan biarkan orang keluar membawa pesan.”
-
-Pengawal tersebut tidak segera bergerak.
-
-“Atas nama siapa, Pangeran?”
-
-Chararic menatapnya sampai ia menunduk.
-
-Di ruang sempit itu, sebelum satu pun pedang dicabut, sebuah perintah telah berhenti membutuhkan nama raja.
-:::
+> Bapa, titipkanlah mereka kepada tangan yang masih mengenal belas kasihan.
+>
+> — Doa Eudoxia, pada malam jatuhnya Basileon
 
 ::: adegan keluarga
-## III. Tiga anak
-### Eudoxia
 
-Theodemir hendak mengetahui mengapa adiknya begitu merah.
+Senja menyentuh atap-atap Basileon ketika Eudoxia akhirnya dapat membedakan suara pelabuhan dari dengung yang sejak siang memenuhi telinganya. Di bawah jendela Istana Dalam, tali-tali kapal berderit dan roda pedati menggilas batu; kota terkaya di Timur sedang menutup gudangnya, sementara di kamar ini air bekas persalinan belum seluruhnya dibawa keluar. Angin laut masuk melalui celah tirai, membawa dingin kepada lengannya yang telanjang. Ia merapatkan selimut di sekitar putra yang baru dilahirkannya. Napas bayi itu terasa pada kulitnya, ringan dan tidak teratur, dan setiap kali napas tersebut berhenti sesaat, Eudoxia menunggu dengan seluruh tubuhnya.
 
-“Karena ia baru datang,” jawab Eudoxia.
+Di seberang kamar tergantung sulaman naga merah, lambang kerajaan yang akan diwarisi anak-anak Ansbert. Di meja di bawahnya selalu ada surat yang menuntut sesuatu: upeti untuk Takhta Singa di Septimon, gandum bagi benteng perbatasan, kesaksian setia kepada satu kekaisaran yang kini terbagi dalam tiga kerajaan vasal. Eudoxia mengenal bekas lilin pada tangan suaminya lebih baik daripada nama benteng-benteng yang dijaganya. Pagi tadi Ansbert berjanji akan kembali sebelum pelita dinyalakan. Adiknya, Chararic, baru pulang dari perbatasan stepa dan meminta menghadap; setelah urusan itu selesai, mereka hendak menyambut kelahiran putra mereka bersama-sama.
 
-Anak laki-laki itu mempertimbangkannya dengan sungguh-sungguh. “Dari mana?”
+Theodemir menunggu di kaki ranjang, bersungguh-sungguh menjalankan pesan agar tidak mengguncang pembaringan. Lima tahun usianya, dan ia telah mengenakan sabuk kecil karena ingin menyambut adik sebagai seorang pangeran. Eirene, yang baru dua tahun, lebih tertarik pada rumbai selimut. Eudoxia melihat tangan putrinya meraih kain, lalu tangan Theodemir menahannya. Ia hendak tertawa, tetapi perutnya nyeri ketika bergerak. Seusai persalinan yang panjang itu, keselamatan ketiga anaknya masih terasa begitu baru sehingga ia takut sebuah bunyi keras dapat merusaknya.
 
-Pelayan di dekat baskom tersenyum. Eudoxia hendak menjawab ketika Eirene meraih tepi selimut. Theodemir segera memindahkan tangan adiknya, terlalu cepat dan terlalu bangga telah mengetahui sesuatu yang belum diketahui Eirene.
+“Biarkan adikmu mendekat, Theodemir. Tuntun tangannya dengan lembut; ia belum mengetahui betapa kecilnya orang yang hendak disambutnya.”
 
-Gadis kecil itu mulai menangis.
+Anak itu memindahkan tangan Eirene ke atas selimut. Eirene menepuk sekali, kemudian menoleh kepada ibunya, meminta pengakuan atas pekerjaan yang baru diselesaikannya. Bayi itu bersin. Theodemir tersenyum lega, seakan ia telah menunggu bukti bahwa adiknya dapat melakukan sesuatu selain tidur.
 
-“Pelan,” kata Eudoxia.
+“Bolehkah aku memperlihatkan kudaku kepadanya, Ibu? Ayah mengatakan seorang pangeran harus mengenal kuda sejak kecil.”
 
-“Ia mau menariknya.”
+“Besok engkau boleh membawakan kuda kayumu. Malam ini, berilah ia kesempatan mengenal suara kakaknya lebih dahulu.”
 
-“Maka ajari dia memegang.”
+Di dekat baskom, bidan mengangkat kain terakhir. Eudoxia mengucapkan terima kasih dan meminta air. Perempuan itu menahannya ketika ia mencoba duduk lebih tinggi; tubuh yang baru melahirkan tidak tunduk kepada kehendak secepat para pelayan tunduk kepada titah. Eudoxia menerima pertolongan itu. Ada rasa malu yang tak sempat dipahaminya setiap kali orang lain harus mengatur letak kakinya sendiri.
 
-Theodemir mengembalikan tangan kecil itu ke atas selimut. Kali ini ia menahannya dari bawah. Eirene berhenti menangis untuk memeriksa wajah bayi yang mengerut, lalu tertawa karena bayi tersebut bersin.
+Seorang dayang membuka pintu untuk mengirim kabar kepada raja. Dari celahnya terdengar hentakan sepatu, rapat dan berat. Eudoxia menoleh. Pergantian jaga biasanya disertai percakapan singkat, kadang tawa tertahan ketika kasim penjaga pintu mengusir prajurit yang berdiri terlalu dekat. Kali ini terdengar benturan gagang tombak ke lantai, kemudian suara laki-laki yang menyuruh orang menyingkir.
 
-Untuk beberapa saat, Eudoxia dapat melupakan rasa sakit di tubuhnya.
+Dayang itu menutup pintu kembali tanpa keluar. Ia merapikan pegangan kendi yang sebenarnya telah lurus. Eudoxia menunggu sampai perempuan itu berani mengangkat wajah.
 
-Di luar jendela, Basileon berkilau dalam cahaya petang. Kota itu selalu terdengar seperti orang banyak yang belum selesai berunding: roda, lonceng, pedagang, burung laut, dan teriakan dari pelabuhan. Ia telah belajar membedakan bunyi-bunyinya. Keramaian yang akrab dapat membuat sebuah kamar terasa aman.
+“Siapakah yang berjaga di luar? Aku belum pernah mendengar suara itu di lorong dalam.”
 
-Malam itu, suara sepatu di lorong tidak akrab.
+“Orang-orang yang pulang bersama Pangeran Chararic, Yang Mulia. Penjaga lama telah diperintahkan turun.”
 
-Pelayan di pintu menoleh sebelum ketukan datang.
+Eudoxia memandang pintu lebih lama. Chararic tidak berhak mengganti pengawal kamar permaisuri. Barangkali Ansbert memintanya menata penjagaan demi penghormatan kepada pasukan yang baru kembali; suaminya kerap mencoba menyelesaikan pertengkaran dengan memberikan sesuatu yang tampak kecil. Ia hampir menerima penjelasan itu, tetapi dayangnya masih memegang kendi dengan kedua tangan.
 
-Seorang lelaki pembawa linen masuk dengan tangan kosong. Eudoxia mengenalnya sebagai salah seorang pelayan Jalan. Biasanya ia menunggu izin sebelum mendekati ranjang. Kali ini ia berhenti hanya untuk memastikan pintu telah ditutup.
+“Carilah Kepala Dayang. Mintalah ia membawa kabar dari Paduka sendiri, dan jangan menyerahkan pesanku kepada penjaga baru.”
 
-“Yang Mulia, penjaga tangga telah diganti.”
+Perempuan itu membungkuk. Eudoxia menunggu bunyi langkahnya menjauh melalui pintu pelayanan, pintu sempit yang setiap hari dilalui air panas dan linen kotor. Theodemir bertanya mengapa mereka tidak menunggu Ayah di ruang makan. Ia menjawab bahwa malam ini mereka akan makan di sini. Anak itu mulai menghitung siapa saja yang memerlukan tempat di meja kecil, belum menyadari bahwa ibunya sedang menghitung pintu.
 
-“Atas perintah raja?”
-
-Lelaki itu menggeleng.
-
-Eudoxia memandang anak-anaknya. Theodemir masih mengajari Eirene menyentuh selimut dengan satu jari.
-
-Ia meminta pelayan perempuan membawa keduanya ke balik penyekat untuk mencuci tangan. Setelah suara langkah kecil menjauh, barulah ia bertanya berapa pintu yang masih terbuka.
-
-“Pintu pelayanan, untuk sementara.”
-
-“Carilah suamiku.”
-
-“Hamba sudah mencoba.”
-
-Eudoxia ingin bangkit. Rasa sakit menahannya begitu keras sehingga pelayan itu maju dengan kedua tangan terulur. Ia menggeleng, menolak disentuh, kemudian membenci dirinya sendiri karena membuang tenaga untuk menolak pertolongan.
-
-“Bawa kursi itu ke pintu,” katanya.
-
-Kursi kayu berukir yang selama ini dipakai menerima tamu diseret melintasi lantai. Bunyinya membuat Theodemir muncul dari balik penyekat.
-
-“Ibu?”
-
-Eudoxia membuka tangannya yang kosong.
-
-Anak itu datang kepadanya.
 :::
 
-::: adegan perang
-## IV. Saudara di hadapan meja
-### Ansbert
-
-Chararic masuk tanpa menanggalkan pedang.
-
-Ansbert masih berdiri di dekat jendela. Di belakang adiknya, dua orang prajurit mengambil tempat di pintu. Salah seorang anggota dewan hendak menegur mereka, tetapi berhenti ketika melihat wajah Chararic.
-
-“Biarkan kami berbicara,” kata Ansbert.
-
-Tidak seorang pun bergerak sampai Chararic mengangguk.
-
-Itulah saat Ansbert mulai memahami.
-
-Setelah ruangan kosong, ia meletakkan laporan perbatasan di atas meja, di antara mereka.
-
-“Kuda-kuda akan dikirim.”
-
-Chararic tidak melihat lembar itu.
-
-“Kuda.”
-
-Ia mengucapkan kata tersebut seperti seseorang menemukan benda kecil di dalam peti yang seharusnya berisi seluruh harta warisannya.
-
-“Dan gandum,” ujar Ansbert. “Aku telah memerintahkan—”
-
-“Berapa lama aku harus menunggu setiap kali engkau memerintahkan sesuatu?”
-
-Ansbert menahan jawaban pertamanya. Ia mengenal amarah adiknya. Di masa kecil mereka, Chararic akan memukul pintu ketika dilarang masuk, lalu duduk berjam-jam di luarnya agar semua orang mengetahui ia belum memaafkan siapa pun.
-
-Lelaki di hadapannya tidak lagi menunggu di luar pintu.
-
-“Duduklah.”
-
-“Aku telah cukup lama berdiri untukmu.”
-
-Dari lorong terdengar benturan singkat. Ansbert menoleh. Chararic tetap menatapnya.
-
-“Apa yang telah kaulakukan?”
-
-“Apa yang seharusnya dilakukan orang yang mampu mempertahankan negeri ini.”
-
-Ansbert meraih lonceng kecil di meja. Tangan Chararic menutupinya lebih dahulu.
-
-Mereka berdiri dengan telapak hampir bersentuhan. Ansbert melihat luka lama pada buku jari adiknya. Ia tidak ingat kapan luka itu diperoleh. Ada banyak hal tentang kehidupan Chararic yang hanya diketahuinya melalui laporan.
-
-“Jika engkau menghendaki kuasa atas dewan, katakanlah.”
-
-“Agar engkau dapat mengambilnya kembali besok?”
-
-“Engkau saudaraku.”
-
-Untuk pertama kali, Chararic tampak kesakitan.
-
-Ansbert menyadari bahwa kata itu tidak lagi melindunginya. Ia mundur dan meraih pedang yang disandarkan pada kursinya. Bilahnya baru separuh keluar ketika Chararic mengitari meja.
-
-Pertarungan mereka pendek, terlalu dekat untuk menjadi kisah yang kelak dapat dinyanyikan dengan indah. Kursi jatuh. Ansbert menangkis satu serangan dan kehilangan keseimbangan ketika kakinya menginjak lembar permohonan yang berserakan.
-
-Pedang Chararic menembus pertahanannya.
-
-Ansbert menabrak tepi meja. Untuk sesaat ia masih berdiri, disangga kayu yang sepanjang hari menanggung urusan kerajaannya.
-
-Ia mencoba menyebut Eudoxia.
-
-Chararic menangkap lengannya ketika lututnya menyerah. Gerakan itu datang begitu cepat, begitu menyerupai pertolongan, sehingga Ansbert menatap adiknya dengan kebingungan yang lebih dalam daripada ketakutan.
-
-Kemudian tangannya terlepas.
-
-Di lantai, cap pada surat perintah pengiriman kuda belum sempat mengeras.
-:::
+✦ ✦ ✦
 
 ::: adegan intrik
-## V. Hari kelahiran
-### Chararic
 
-Orang pertama yang memanggilnya Yang Mulia adalah pengawal yang tadi menanyakan atas nama siapa.
+Pelita pertama telah dinyalakan ketika seorang kasim pelayan linen masuk dari pintu belakang. Eudoxia mengenalnya dari doa-doa kaum Jalan yang dibisikkan para pelayan ketika mereka mengira tidak didengar. Ia membawa keranjang, tetapi linen di dalamnya belum dilipat. Pada lengan bajunya terdapat sobekan baru. Ia menutup pintu dengan tumit dan berlutut di sisi ranjang, lebih dekat daripada yang diizinkan tata krama.
 
-Chararic berdiri di luar ruang dewan. Ia telah membersihkan pedangnya. Ada bagian pada gagang yang tetap terasa licin, meskipun ketika diperiksa tidak ada apa-apa di sana.
+“Yang Mulia, hamba mohon agar anak-anak dibawa ke balik penyekat. Ada kabar yang tidak patut mereka dengar.”
 
-“Kamar permaisuri dijaga dari dalam,” kata pengawal itu. “Pangeran Theodemir belum ditemukan.”
+Eudoxia memanggil bidan dengan isyarat. Perempuan itu mengajak kedua anak mencuci tangan, membawa mangkuk yang sebenarnya telah bersih. Theodemir keberatan karena tangannya tidak kotor. Eudoxia harus mengulangi permintaan itu, dan ia membenci ketajaman yang tanpa sengaja masuk ke suaranya. Setelah tirai penyekat menutup, ia menatap pelayan yang berlutut.
 
-“Belum ditemukan di mana?”
+“Katakan di mana suamiku berada. Mulailah dari apa yang kaulihat sendiri.”
 
-“Di kamarnya.”
+Lelaki itu menelan ludah. Ia telah membawa linen ke ruang dekat dewan ketika pintu-pintu dijaga pasukan Chararic. Dari balik dinding ia mendengar perselisihan tentang perbatasan, tentang gandum dan kuda yang terlambat dikirim. Ansbert menyuruh adiknya duduk. Kemudian terdengar kursi jatuh dan orang memanggil pengawal. Ia berhenti pada bagian itu, menggenggam tepi keranjang begitu keras hingga bilah anyamannya patah.
 
-Chararic memandang tangga.
+Eudoxia mengenali pertengkaran tersebut dari meja makan mereka. Selama berminggu-minggu Ansbert mengeluhkan petugas gudang, pungutan pelabuhan, dan surat Chararic yang semakin keras. Ia pernah memintanya menemui adiknya tanpa para pejabat. Kini ia ingin menarik kembali nasihat itu, seolah perkataan yang telah berlalu masih dapat dijangkau.
 
-Anak laki-laki yang lahir hari ini.
+“Aku bertanya apa yang kaulihat,” katanya. “Jangan sisakan ruang bagiku untuk mengharapkan sesuatu yang telah tiada.”
 
-Keponakannya telah lahir di atas ranjang yang bersih, disambut doa, disaksikan orang-orang yang akan bersumpah melindunginya. Jika ia hilang, selalu akan ada orang yang mengaku menyembunyikannya. Selalu akan ada anak lain yang dibawa ke hadapan pasukan dengan nama yang tepat.
+Pelayan itu menundukkan kepala. “Paduka Ansbert rebah di sisi meja, Yang Mulia. Hamba melihat Pangeran mencabut pedangnya dari tubuh beliau. Ketika hamba dipaksa meninggalkan pintu, Paduka sudah tidak bergerak.”
 
-“Tutup gerbang kota.”
+Bayi dalam pelukannya menggeliat. Eudoxia menurunkan pandangan karena gerakan itu memerlukan jawaban: kain harus dilonggarkan dari pipinya, kepala kecil itu harus ditopang. Ia mengerjakan semuanya dengan cermat. Suaminya baru saja dibunuh, tetapi tubuh putranya masih meminta hal-hal yang dapat dilakukan dengan dua tangan.
 
-“Atas tuduhan apa, Yang Mulia?”
+Ia teringat Ansbert pada pagi tadi, berhenti di ambang pintu agar bidan selesai memarahinya karena membawa debu ke kamar bersalin. Ia hendak menjawab suatu gurauan, tetapi rasa sakit datang lebih dahulu. Sekarang ia tidak dapat mengingat apa yang telah dikatakannya. Ingatan itu mengusiknya dengan kekejaman yang begitu remeh sampai ia hampir tertawa.
 
-Chararic hampir menjawab pengkhianatan. Kata itu terasa tidak berguna setelah apa yang terjadi di ruang dewan.
+Di balik penyekat, Eirene menumpahkan air. Bidan menghiburnya. Eudoxia mendengar kain diperas ke dalam mangkuk, lalu suara Theodemir menawarkan bantuan. Dunia di belakang tirai itu masih utuh, hanya karena belum ada seorang pun membawakan kabar kepadanya.
 
-“Perintahku.”
+“Apakah Chararic telah memerintahkan orang mencari anak-anakku?”
 
-Ia meminta para kepala jaga dikumpulkan. Lalu ia menyuruh mereka mencari semua bayi laki-laki yang lahir pada hari itu.
+“Belum sampai ke sini, Yang Mulia. Mereka sedang memeriksa tangga dan pintu gudang. Hamba melihat orang-orang Amal di halaman belakang; salah seorang masih dapat membawa Pangeran Theodemir sebelum penjagaan dirapatkan.”
 
-Tidak ada yang berpura-pura tidak mengerti. Justru pemahaman di wajah mereka membuat ruangan menjadi sunyi.
+Wangsa Amal. Eudoxia memegang nama itu dalam pikirannya, nama yang selama ini muncul pada undangan jamuan dan urusan pengasuhan anak. Kini ia harus mempercayakan seorang putra kepadanya tanpa surat, tanpa jaminan, tanpa melihat wajah orang yang akan membawa. Ia mencoba mengangkat tubuh dari ranjang. Nyeri menahannya sebelum kedua kaki menyentuh lantai. Bidan muncul dari balik penyekat dan segera meraih bahunya.
 
-Seorang perwira menggeser berat tubuhnya.
+“Hamba mohon, Yang Mulia. Darah Paduka belum berhenti. Bila dipaksa berjalan, Paduka dapat jatuh sebelum mencapai tangga.”
 
-“Paduka bermaksud membawa mereka ke istana?”
+Eudoxia membiarkan dirinya didudukkan. Wajah bidan terlalu dekat, dan ia melihat betapa tua perempuan itu di sekitar mata. Kepadanya telah dipercayakan kelahiran anak raja; sekarang perempuan yang sama diminta memikirkan cara menyembunyikannya.
 
-Chararic menatapnya. Ia masih mempunyai kesempatan untuk mengatakan ya. Kata itu tersedia, pendek, cukup untuk menunda semuanya sampai pagi.
+Eudoxia memerintahkan kursi berat digeser ke pintu utama. Bunyi kayu menggores lantai membuat Theodemir keluar dari penyekat. Ia memandang kursi itu, lalu pelayan yang masih berlutut, dan tidak lagi bertanya tentang makan malam.
 
-Dari jauh terdengar seruan yang menyebut nama Ansbert.
-
-“Bunuh mereka,” katanya.
-
-Perwira itu menunduk dengan lambat.
-
-Chararic memberi perintah berikutnya sebelum siapa pun dapat berbicara: perempuan-perempuan istana tetap hidup; semua pembawa pesan diperiksa; pintu dan kunci diserahkan kepada pengawal baru.
-
-Ia menyusun malam seperti menyusun garis pertahanan. Setiap celah harus ditutup. Setiap orang yang ragu harus diganti.
-
-Ketika akhirnya ia berjalan menuju kamar Eudoxia, seorang pelayan berlutut begitu cepat sampai dahinya membentur lantai.
-
-Chararic tidak menyuruhnya berdiri.
 :::
+
+✦ ✦ ✦
 
 ::: adegan kehilangan
-## VI. Dua pintu
-### Eudoxia
 
-Kabar tentang Ansbert datang melalui mata pelayan sebelum melalui mulutnya.
+Kabar berikutnya datang bersama dayang yang dikirim Eudoxia tadi. Ia kembali lewat pintu pelayanan, napasnya pendek, satu sandal telah terlepas. Kepala Dayang tidak ditemukannya. Di dekat tangga luar ia mendengar perintah baru: gerbang kota akan ditutup, dan para kepala jaga harus mencari bayi laki-laki yang lahir sejak pagi. Dayang itu berhenti, memandang bayi di tangan Eudoxia, lalu menutup mulutnya sendiri.
 
-Eudoxia memandang lelaki itu dan tahu. Ia tetap menunggu sampai kalimatnya selesai, karena selama masih ada kata yang belum diucapkan, masih ada kemungkinan bahwa ia salah mengerti.
+“Mereka hendak membawa bayi-bayi itu ke mana?”
 
-Theodemir merasakan lengannya mengeras.
+“Hamba mendengar perwiranya bertanya demikian, Yang Mulia.” Perempuan itu meremas ujung bajunya. “Pangeran memerintahkan mereka dibunuh.”
 
-“Ayah akan datang?”
+Eudoxia menarik putranya lebih rapat. Anak itu mulai menangis karena pipinya tertekan. Ia melonggarkan pelukan, tetapi kedua lengannya tetap terasa seperti bukan miliknya. Dayang mengatakan bahwa di antara para pengawal beredar ucapan seorang dukun Kegelapan: seorang anak laki-laki yang lahir hari itu akan menumpahkan darah Chararic. Eudoxia menatap pintu. Ramalan itu sampai kepadanya sebagai kabar dari mulut yang gemetar, namun perintah pembunuhan telah diberikan oleh seorang lelaki yang dikenalnya.
 
-Eudoxia menempelkan bibir ke rambutnya. Ia tidak menjawab. Pelayan perempuan di samping ranjang mulai menangis tanpa suara.
+Ia tidak menanyakan apakah ramalan dapat dipercaya. Di luar kamar ada orang-orang bersenjata yang akan mempercayai perintah lebih dahulu. Ia meminta pelayan linen menjemput Theodemir dan memanggil dayang mendekat. Di padang penggembalaan Timur, kata dayang itu, ada keluarga Jalan yang dikenal oleh rekan-rekannya. Seorang perempuan di rumah tersebut masih menyusui. Gerobak cucian belum meninggalkan halaman; mereka dapat menyembunyikan bayi di balik selendang dan keluar bersama pekerjaan yang setiap hari tidak dianggap layak diperiksa.
 
-“Jangan,” kata Eudoxia.
+“Bila penjaga menemukan dia, mereka akan menuntut namamu,” kata Eudoxia. “Aku tidak dapat menjanjikan perlindungan dari dalam kamar ini.”
 
-Perempuan itu mengira ia sedang ditegur dan segera mengusap wajah.
+“Nama hamba sudah ada dalam daftar pelayan istana, Yang Mulia. Menunggu di sini tidak akan menghapusnya.”
 
-“Jangan sekarang,” ulang Eudoxia, lebih pelan.
+Perempuan itu tidak tersenyum. Eudoxia melihat tangannya gemetar ketika merapikan selendang. Keberanian yang ditawarkan kepadanya memiliki wajah takut, dan karena itulah ia dapat mempercayainya. Ia menyuruh bidan mengganti kain bersulam dengan wol polos. Semua tanda yang dapat membuat penjaga menoleh untuk kedua kali harus ditinggalkan.
 
-Pembawa linen telah menemukan jalan bagi Theodemir. Ada orang yang dapat membawanya kepada Wangsa Amal, tetapi rombongan itu harus berangkat sebelum pintu halaman ditutup. Mereka tidak dapat membawa semua orang. Bayi memerlukan jalan berbeda. Eudoxia sendiri belum sanggup berdiri tanpa bantuan.
+Theodemir berdiri di sebelah ranjang. Eudoxia meraih bahunya dan menariknya dekat, cukup dekat untuk mencium bau sabun yang baru dipakai pada tangannya. Anak itu memandang bayi, kemudian pintu, berusaha menyusun apa yang orang dewasa tidak jelaskan kepadanya.
 
-Di seberang kamar terdapat pintu pelayanan yang sempit. Di sisi lain, pintu utama mulai bergetar oleh ketukan.
+“Engkau akan pergi bersama pelayan ini ke rumah orang-orang Amal. Dengarkan perkataannya sebagaimana engkau mendengarkan Ibu. Di jalan, jangan sebutkan gelarmu.”
 
-“Yang Mulia diminta membuka.”
+“Ayah menyuruhku menjaga Eirene. Siapakah yang menjaganya apabila aku pergi?”
 
-Tidak ada yang menyebut siapa yang meminta.
+Eudoxia menekan bibir sebentar. Dari segala hal yang ditakutkannya, ia belum mempersiapkan diri untuk menghadapi kesetiaan seorang anak lima tahun.
 
-Eudoxia memegang kedua bahu Theodemir.
+“Ibu akan menjaganya. Tugasmu malam ini ialah tiba dengan selamat. Jangan memikul pekerjaan yang belum dapat kautanggung.”
 
-“Engkau akan pergi bersama dia.”
+Theodemir memandang adiknya. Eirene sedang mengunyah ujung rumbai, tidak memahami mengapa semua orang memperhatikannya. Ia mengulurkan tangan kepada Theodemir, dan anak laki-laki itu hampir kembali mendekat. Pelayan di pintu mengingatkan bahwa orang-orang Amal tidak dapat menunggu lama.
 
-Anak itu memandang pelayan, lalu kembali kepadanya. “Eirene juga?”
+Eudoxia melepas sabuk kecil dari pinggang putranya. Gespernya berlambang naga. Theodemir menahannya dengan tangan, lalu membiarkannya diambil setelah melihat wajah ibunya. Ia mengganti mantel anak itu dengan kain tanpa sulaman, memakaikannya terlalu rapat, kemudian membukanya lagi. Ia membutuhkan satu tarikan napas tambahan sebelum dapat melepaskan.
 
-Eudoxia tidak dapat menjanjikannya. Pelayan telah memberi tahu bahwa mereka hanya mempunyai satu mantel kecil, satu tempat di antara rombongan, satu kebohongan yang masih mungkin dipercaya.
+“Ingatlah nama ayahmu, Theodemir. Simpanlah dahulu di dalam hati sampai engkau berada bersama orang yang dapat dipercaya.”
 
-“Pegang tangannya. Jangan lepaskan sampai ia mengatakan engkau aman.”
+Anak itu mengangguk tanpa menjawab. Ketika pelayan membimbingnya melewati pintu pelayanan, ia menoleh sekali. Eudoxia mengangkat tangan. Ia mempertahankan gerakan itu sampai pintu tertutup, lalu menurunkannya ke atas sabuk yang masih tergeletak di pangkuannya.
 
-“Ibu ikut setelah itu?”
+Giliran bayinya datang lebih cepat daripada yang dapat ditanggungnya. Dayang sudah menanggalkan perhiasan kecil dari rambut dan melepas lapisan pakaian yang akan menghalangi gendongan. Bidan menyerahkan bayi kepada Eudoxia untuk terakhir kalinya sebelum perjalanan. Ia menunduk, menghirup bau kulit dan susu, lalu menyentuh kening yang belum memiliki kerutan apa pun. Anak ini belum mengetahui wajah orang yang memerintahkannya mati.
 
-Eudoxia membetulkan kerahnya. Ia menghabiskan terlalu banyak waktu pada lipatan yang sudah rapi.
+“Namanya Danimoan,” katanya kepada dayang. “Sampaikan nama itu kepada orang yang menerimanya. Yang lain dapat kaulepaskan bila membahayakan, tetapi jangan biarkan ia tumbuh tanpa nama yang diberikan ibunya.”
 
-“Ingat suara Ibu,” katanya. “Apa pun yang dikatakan orang kepadamu, engkau pernah dicintai di rumah ini.”
+Perempuan itu mengulang nama tersebut. Eudoxia meletakkan bayi ke dalam kedua lengannya, lalu menahan salah satu tangan dayang sejenak. Ia berdoa pelan, dengan suara yang hanya cukup bagi mereka yang berada di sisi ranjang.
 
-Theodemir tidak mengerti mengapa ia harus mengingat sesuatu yang tidak mungkin dilupakannya.
+“Bapa, titipkanlah mereka kepada tangan yang masih mengenal belas kasihan. Dalam nama Yesus, jagalah anak-anak ini ketika tangan hamba tidak lagi dapat menjangkau mereka.”
 
-Pelayan mengangkatnya. Anak itu mulai melawan ketika melihat pintu yang dituju bukan pintu tempat ayahnya biasa masuk. Eudoxia memaksakan senyum sampai pintu pelayanan tertutup di belakang mereka.
+Pelita tetap menyala kecil. Dari lorong terdengar orang memukul pintu. Eudoxia melepaskan tangan dayang dan menyuruhnya pergi. Eirene mencoba mengikuti, tetapi ia memanggil putrinya kembali, merangkul tubuh kecil yang hangat itu sementara pintu pelayanan dibuka untuk kedua kalinya. Dayang menghilang di baliknya, membawa napas yang sejak siang didengarkan Eudoxia.
 
-Sesudah itu ia meminta bayi dibawa kepadanya.
+Pada pintu utama, pukulan berikutnya membuat kursi bergeser.
 
-Pelayan perempuan melepas kain bersulam dari pembaringan dan menggantinya dengan wol polos. Tidak boleh ada tanda istana. Tidak boleh ada bros, cincin, atau apa pun yang dapat membuat seorang penjaga ingin memeriksa lebih dekat.
-
-Eudoxia mencium dahi anaknya. Tangannya meraba kepala kecil itu, seakan ia dapat mempelajari bentuknya cukup baik untuk mengenalinya bertahun-tahun kemudian.
-
-“Danimoan,” bisiknya kepada pelayan. “Namanya Danimoan.”
-
-Perempuan itu mengulanginya sekali.
-
-Eudoxia berdoa kepada Bapa dalam nama Yesus. Tidak ada cahaya yang memenuhi kamar. Yang ada hanya seorang perempuan yang menerima bayi dari tangannya, lalu menyembunyikannya di balik selendang.
-
-Ketika pintu pelayanan terbuka untuk kedua kalinya, Eirene berusaha mengikuti.
-
-Eudoxia memanggilnya. Gadis kecil itu berbalik, bingung karena semua orang pergi tanpa mengajaknya.
-
-“Kemari, Sayang.”
-
-Ia merangkul anak perempuannya dengan satu tangan dan memberi isyarat dengan tangan yang lain.
-
-Pintu kecil itu menutup.
-
-Di pintu utama, kayu mulai pecah.
 :::
 
-::: adegan perjalanan
-## VII. Orang-orang tanpa lambang
-### Narator · para pelayan
+✦ ✦ ✦
 
-Perempuan pembawa bayi tidak berlari.
+::: adegan intrik
 
-Ia telah bekerja di istana cukup lama untuk mengetahui bahwa orang yang berlari akan ditanyai, sedangkan orang yang membawa pekerjaan sering disuruh menyingkir.
+Eudoxia menyuruh bidan menyingkirkan kain bersalin dari lantai. Ia tidak mengetahui berapa banyak waktu yang dibutuhkan gerobak untuk melewati halaman, maka setiap pekerjaan yang dapat memperlambat orang masuk harus dikerjakan. Bidan mendekati pintu utama dan berseru bahwa permaisuri masih dirawat. Balasannya berupa titah untuk membuka atas nama penguasa Timur. Tidak ada yang menyebut Ansbert.
 
-Di lorong pelayanan, seorang pengawal baru menghalanginya.
+Eudoxia meraih sabuk Theodemir dan menyelipkannya di bawah kasur. Ia hampir memanggil bidan kembali, meminta seseorang mengejar dayang untuk menambahkan kain pada bayi. Udara di luar akan semakin dingin. Pikiran itu demikian kuat hingga ia membuka mulut sebelum menyadari bahwa satu panggilan saja dapat mengembalikan semua langkah yang baru dilepaskannya.
 
-“Apa itu?”
+“Katakan kepada mereka aku sedang berpakaian,” ujarnya. “Sesudah itu, bantulah aku duduk tegak. Bila mereka hendak masuk, mereka akan menemui permaisuri rajanya.”
 
-“Linen dari kamar bersalin.”
+Bidan mengencangkan pakaian pada bahunya dan menyisir rambut yang melekat di pelipis dengan jari. Eirene mulai menangis setiap kali pintu dipukul. Eudoxia mendekapnya dan menghitung pukulan, kemudian berhenti karena jumlahnya tidak memberitahukan sejauh mana kedua putranya telah pergi.
 
-Ia mengangkat keranjang di tangan kirinya. Di atasnya diletakkan kain-kain kusut. Tangan kanannya menopang bayi di balik selendang. Ia berharap pengawal tersebut akan melihat pekerjaannya, bukan tubuhnya.
+Kaki kursi patah ketika pintu akhirnya didorong dari luar. Dua prajurit masuk, disusul seorang perwira yang segera memeriksa pembaringan bayi. Ia menarik selimut, mengangkat bantal, lalu berbalik kepada bidan. Perempuan itu dipaksa menjauh dari ranjang sebelum Eudoxia sempat memerintahkannya tetap tinggal.
 
-Pengawal itu mengernyit. Dari lantai atas terdengar benturan.
+“Di manakah kedua pangeran, Yang Mulia? Hamba dititahkan membawa mereka menghadap.”
 
-“Cepat.”
+“Kepada siapa engkau hendak membawa putra-putra rajamu? Sebutkan nama orang yang memberi titah itu.”
 
-Perempuan itu berjalan melewatinya. Baru setelah berbelok, ia menyadari bahwa selama beberapa langkah ia sama sekali tidak bernapas.
+Perwira tersebut melirik pintu. Chararic telah berdiri di sana. Eudoxia mengenali mantel perjalanan yang pernah dikenakannya ketika Ansbert menyambut kabar kemenangan dari perbatasan. Ada lumpur kering di kelimnya. Ia tidak membawa mahkota, namun perwira tadi segera membungkuk dan memberi jalan. Eudoxia memusatkan pandangan pada wajahnya; melihat pedang di pinggangnya terasa terlalu dekat kepada melihat jasad suaminya.
 
-Di halaman belakang, seorang pelayan lelaki menunggu di sisi gerobak kecil. Keledainya sedang mengunyah tali yang diikatkan terlalu rendah. Lelaki tersebut melepaskan tali dari mulut hewan itu dengan tangan gemetar.
+“Serahkan anak-anak itu kepadaku, Eudoxia. Jangan paksa prajuritku membongkar seluruh istana untuk mencari mereka.”
 
-“Yang lain?” tanyanya.
+“Bawalah Ansbert kemari lebih dahulu. Aku ingin mendengar dari mulutnya sendiri mengapa adiknya kini memberi perintah di kamar istrinya.”
 
-“Sudah mengambil jalan lain.”
+Chararic memandang bidan. Perempuan itu berdiri dengan kedua lengan ditahan prajurit. Eudoxia melihat pandangannya bergerak menuju kain kosong, lalu kembali kepadanya. Ia tidak dapat mengetahui siapa yang telah ditanyainya di luar kamar, atau seberapa banyak kebohongan yang masih mungkin bertahan.
 
-Mereka tidak menyebut nama Theodemir. Mereka tidak menyebut nama siapa pun.
+“Kakakku telah mati. Kerajaan ini tidak akan menunggu perkabunganmu untuk memperoleh seorang penguasa.”
 
-Pintu pelayanan kota belum sepenuhnya ditutup ketika mereka tiba. Seorang penjaga sedang berdebat dengan pedagang sayur yang menuntut agar keranjangnya dikembalikan. Di antara kata-kata kasar dan suara roda, pelayan perempuan mendengar sesuatu yang membuat langkahnya hampir berhenti: seorang prajurit menyebut rumah-rumah kelahiran.
+Eudoxia mendengar Eirene menarik napas sebelum menangis lagi. Ia mengusap punggung putrinya, sekali, dua kali, memastikan tangannya bergerak lembut. Ada pertanyaan yang ingin diteriakkannya, pertanyaan tentang berapa lama Ansbert masih hidup setelah pedang dicabut. Ia tidak akan memperoleh jawaban yang dapat dipakai untuk menyelamatkan siapa pun.
 
-Ia merapatkan selendang.
+“Engkau telah memperoleh kursinya,” katanya. “Apakah seorang bayi juga harus menyerahkan leher agar engkau sanggup duduk di sana?”
 
-Lelaki di sisinya terus berbicara tentang cucian. Ia mengeluhkan jumlahnya, dinginnya air, dan orang-orang istana yang memakai kain putih untuk segala hal. Keluhannya buruk dan terlalu panjang. Penjaga akhirnya melambaikan tangan agar mereka lewat.
+Chararic mendekat. Eudoxia merasakan tubuhnya hendak mundur, tetapi sandaran ranjang sudah menahan punggungnya. Ia menarik Eirene ke sisi yang jauh dari tangan lelaki itu.
 
-Di luar tembok, mereka tidak segera merasa selamat.
+“Aku bertahun-tahun menahan penunggang stepa sementara kakakku menimbang surat di ruangan hangat. Aku tidak akan menyerahkan apa yang kujaga kepada ancaman yang dibiarkannya tumbuh di rumah sendiri.”
 
-Setiap suara kuda membuat keduanya berpaling. Setiap kali bayi bergerak, perempuan itu berhenti untuk memastikan wajahnya tidak tertutup kain. Mereka meninggalkan jalan besar ketika lampu gerbang mulai tampak kecil di belakang.
+“Maka pandanglah pembaringan itu. Katakan kepada orang-orangmu bahwa itulah musuh yang pulang kaucari dari perbatasan.”
 
-Di padang penggembalaan, anjing-anjing lebih dahulu mengetahui kedatangan mereka.
+Ia menunjuk kain bersulam yang masih terlipat. Chararic menarik kain itu, membukanya, lalu melemparkannya kembali. Salah seorang prajurit merendahkan pandangan. Eudoxia melihat gerak kecil tersebut dan ingin mengingat wajahnya, tetapi Chararic telah memerintahkan pemeriksaan seluruh kamar. Peti dibuka, penyekat digeser, pintu pelayanan didobrak dari sisi dalam. Udara lorong yang dingin masuk sampai ke ranjang.
 
-Seorang lelaki keluar dari rumah dengan tongkat dan lampu. Perempuan pembawa bayi menyebut salam yang dikenali kaum Jalan. Ia tidak langsung dipersilakan masuk. Lelaki itu melihat ke jalan di belakang mereka, menimbang bahaya yang datang bersama dua orang asing.
+Mereka tidak menemukan kedua putranya. Eudoxia mengulang kenyataan itu dalam pikirannya tanpa berani mengubahnya menjadi keyakinan bahwa anak-anak telah selamat. Chararic memerintahkan perempuan-perempuan istana dipisahkan untuk ditanyai. Ketika bidan dibawa keluar, Eudoxia menyebut bahwa perempuan itu masih diperlukan untuk merawatnya. Chararic berhenti di ambang pintu.
 
-Istrinya muncul di ambang pintu.
+“Akan didatangkan orang lain. Engkau dan putrimu tetap di kamar ini sampai aku menghendaki sebaliknya.”
 
-Ketika bayi mulai menangis, perempuan rumah itu turun satu anak tangga.
+Pintu utama ditutup. Kunci diputar dari luar, dan untuk pertama kalinya sejak menjadi permaisuri, Eudoxia tidak dapat memanggil orang dengan membunyikan lonceng. Prajurit telah membawanya pergi bersama pisau kecil di meja.
 
-“Sejak kapan ia belum menyusu?”
-
-Pertanyaan tersebut memecahkan sesuatu di dada pelayan. Ia baru menangis setelah bayi berpindah tangan.
-
-Lelaki pemilik rumah memadamkan lampu luar. Ia membawa gerobak ke sisi bangunan, menuntun keledai agar tidak bersuara, kemudian menutup pintu.
-
-Tidak ada sumpah yang dicatat malam itu. Tidak ada segel yang membuktikan mereka telah menerima seorang anak. Hanya sebuah tempat di dekat perapian yang dikosongkan dan air yang mulai dipanaskan.
 :::
+
+✦ ✦ ✦
 
 ::: adegan kehilangan
-## VIII. Pagi tanpa jawaban
-### Eudoxia
 
-Chararic datang ketika Eirene akhirnya tertidur di pangkuannya.
+Malam berlangsung dalam pekerjaan-pekerjaan kecil. Eudoxia membasahi bibir Eirene dari cawan yang tersisa, menggeser selimut dengan kaki, dan menekan kain bersih pada tubuhnya sendiri. Sesekali langkah berhenti di depan pintu; setiap kali itu terjadi, ia menunggu nama salah satu putranya disebut. Namun yang terdengar hanya perintah penjagaan, umpatan tentang kunci yang salah, dan suara orang disuruh berlutut.
 
-Pintu kamar telah terbuka. Kursi yang tadi mengganjalnya tergeletak dengan satu kaki patah. Eudoxia masih berada di ranjang yang sama, tetapi dua orang bersenjata kini berdiri di tempat para pelayannya biasa menunggu.
+Menjelang fajar, pengawal membuka pintu pelayanan untuk memasukkan air. Perempuan yang mengangkat kendi itu membuat Eudoxia hampir bangkit. Dayang pembawa bayi telah kembali, dengan pakaian berdebu dan selendang kosong. Seorang penjaga mengikutinya sampai ambang, menyuruhnya membersihkan kamar sebelum perempuan pengganti datang.
 
-“Di mana kedua putramu?”
+Dayang berlutut di dekat ranjang untuk mengangkat baskom. Eudoxia menunggu sampai suara air menutupi bisikan mereka. Ia takut bertanya; selendang kosong dapat berarti terlalu banyak hal.
 
-Ia menatap adik suaminya. Pada wajah itu ia mencari sesuatu yang dikenalnya dari perjamuan, dari percakapan keluarga, dari saat Ansbert menyebut namanya dengan bangga setelah kabar kemenangan tiba.
+“Di padang sudah ada yang menyusuinya, Yang Mulia,” bisik perempuan itu. “Hamba melihatnya sendiri sebelum kembali. Orang rumah memadamkan lampu luar dan menyembunyikan gerobak kami.”
 
-Ia menemukan keletihan. Ia tidak menemukan penyesalan yang dapat dipercayainya.
+Eudoxia meremas selimut. Ia hendak menanyakan jalan yang dilewati, wajah orang yang menerima, berapa kali bayi menangis. Dayang sempat bercerita bahwa penjaga halaman mengira mereka membawa cucian. Seorang pelayan laki-laki mengeluh tentang kain-kain istana sampai orang itu bosan mendengarnya dan menyuruh mereka lewat. Di luar kota mereka meninggalkan jalan besar. Anjing-anjing di padang menggonggong, lalu istri gembala turun dari pintu ketika mendengar bayi menangis.
 
-“Di mana suamiku?”
+“Pangeran Theodemir telah dibawa orang Amal keluar dari halaman,” lanjutnya. “Rekan hamba melihat mereka berangkat. Sesudah itu hamba tidak memperoleh kabar lagi.”
 
-Chararic menahan napas melalui hidung.
+Eudoxia menyentuh pergelangan tangan perempuan itu, hendak menanyakan mengapa ia berani kembali. Dayang lebih dahulu menyebut pemeriksaan pelayan pada pergantian tugas. Bila namanya dipanggil dan ia tidak ada, rekan yang membuka pintu cucian akan ditanyai. Ia telah kembali dengan gerobak berisi kain basah. Eudoxia melepaskan tangannya; masih ada orang-orang di dalam istana yang keselamatannya bergantung pada perempuan ini.
 
-“Jangan mempersulit keadaan.”
+Eudoxia mengangguk. Ia tidak meminta perempuan itu menjanjikan keselamatan yang belum diketahuinya. Di ambang, penjaga menghentakkan gagang tombak. Dayang segera bangkit dan mengangkat keranjang kain kotor. Eudoxia ingin menyuruhnya bersembunyi, ingin memberinya sesuatu yang dapat membayar perjalanan berbahaya itu, tetapi tidak ada benda di dalam kamar yang tidak akan mengundang pemeriksaan.
 
-Eirene bergerak. Eudoxia menepuk punggungnya sampai anak itu tenang kembali.
+“Semoga Tuhan menjaga rumahmu,” katanya, cukup keras untuk didengar penjaga sebagai ucapan terima kasih atas pekerjaan biasa.
 
-“Bawalah ia kepadaku,” katanya. “Jika engkau masih sanggup membawanya.”
+Dayang membungkuk lalu pergi. Setelah kunci kembali diputar, Eudoxia membiarkan air matanya jatuh. Eirene tidur dengan pipi menekan lengannya. Melalui jendela terdengar roda pertama melintasi jalan, disusul tangis seorang perempuan dari arah yang tidak dapat dilihatnya. Kota sedang bangun di bawah perintah baru. Ia memandang kedua pintu kamar dan mengetahui bahwa masing-masing kini dijaga.
 
-Chararic memandang pintu, lalu pembaringan bayi yang kosong. Kain bersulam masih terlipat di sisinya. Ia mengangkat kain itu dan membukanya, seolah seorang anak dapat tersembunyi di antara lipatan yang begitu tipis.
+Eirene terbangun ketika cahaya mencapai sulaman naga. Anak itu meminta ayahnya. Eudoxia mengangkat tubuh putrinya ke pangkuan, menahan nyeri sampai ia dapat bernapas kembali. Ia belum sanggup menceritakan kematian dengan kata-kata yang dapat dipahami anak dua tahun. Namun ia dapat memeluknya tanpa mengucapkan janji palsu.
 
-“Mereka akan ditemukan.”
+“Ibu akan tinggal bersamamu, Eirene.”
 
-Eudoxia tidak menjawab.
+Di luar, seorang penjaga memanggil Chararic dengan sebutan Paduka. Eudoxia menunduk dan menyelipkan sabuk Theodemir lebih jauh ke bawah kasur. Chararic telah mengambil kedua kunci; nama kedua putranya masih belum dapat dikuncinya di dalam kamar ini.
 
-Ia ingin tahu apakah Theodemir telah mencapai orang-orang Amal. Ia ingin tahu apakah pelayan perempuan masih hidup, apakah bayinya kedinginan, apakah seseorang telah memberinya susu. Ketidaktahuan itu lebih sukar ditanggung daripada ancaman Chararic, sebab ancaman setidaknya mempunyai suara dan wajah.
-
-“Engkau dan anak perempuanmu tetap di sini.”
-
-Chararic menjatuhkan kain ke pembaringan, kemudian pergi.
-
-Eudoxia mendengar kunci diputar dari luar.
-
-Menjelang pagi, Basileon kembali mengeluarkan suara-suara yang dikenalnya. Roda melewati batu. Burung laut berteriak. Dari kejauhan terdengar pedagang memanggil pembeli, lalu berhenti di tengah seruan ketika pasukan lewat.
-
-Di suatu rumah, seseorang meratap. Di rumah lain, orang-orang menahan suara agar tidak didatangi.
-
-Eirene terbangun dan meminta ayahnya.
-
-Eudoxia merapikan rambut hitam anak itu dengan jari. Ia tidak mengatakan bahwa ayahnya sedang bekerja. Ia tidak mengatakan bahwa ia akan segera datang.
-
-“Ibu di sini,” katanya.
-
-Gadis kecil itu menyandarkan pipi ke dadanya. Untuk pagi tersebut, itulah jawaban yang dapat diterimanya.
-
-Jauh dari istana, sebuah keluarga gembala membuka pintu hanya cukup lebar untuk menerima cahaya. Di jalan yang berbeda, seorang anak laki-laki berumur lima tahun terus bertanya kapan ia akan pulang.
-
-Di ruang dewan, para juru tulis menyiapkan lembar baru untuk nama penguasa yang baru.
-
-Surat perintah pengiriman kuda milik Ansbert masih tergeletak di lantai.
 :::

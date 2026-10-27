@@ -1,0 +1,78 @@
+{
+  "prolog": [
+    {
+      "nama": "Meroveus I",
+      "peran": "Pemimpin Franka",
+      "teks": "Penakluk dalam Perang Taring dan Besi. Menghendaki perdamaian yang dapat bertahan setelah kemenangan.",
+      "gambar": "assets/img/prolog-tokoh.webp",
+      "ukuran": "300% 100%",
+      "posisi": "0% 0%"
+    },
+    {
+      "nama": "Ingund",
+      "peran": "Putri Bangsa Sungai",
+      "teks": "Putri Ratu Merewyn, menjadi pengantin perdamaian dalam Perjanjian Batas.",
+      "gambar": "assets/img/prolog-tokoh.webp",
+      "ukuran": "300% 100%",
+      "posisi": "50% 0%"
+    },
+    {
+      "nama": "Fafnaris",
+      "peran": "Lindwurm tua",
+      "teks": "Naga darat tanpa sayap yang ditundukkan Meroveus dan terikat sumpah kepada Takhta Singa.",
+      "gambar": "assets/img/prolog-tokoh.webp",
+      "ukuran": "300% 100%",
+      "posisi": "100% 0%"
+    }
+  ],
+  "bab-1": [
+    {
+      "nama": "Ansbert",
+      "peran": "Raja Timur · 25 tahun",
+      "teks": "Putra Charibert; suami Eudoxia dan kakak Chararic. Memerintah dari Basileon.",
+      "gambar": "assets/img/bab01-tokoh.webp",
+      "ukuran": "300% 200%",
+      "posisi": "0% 0%"
+    },
+    {
+      "nama": "Chararic",
+      "peran": "Pangeran · 23 tahun",
+      "teks": "Adik Ansbert. Lama menjaga perbatasan dan merasa jasanya tidak memperoleh tempat yang layak.",
+      "gambar": "assets/img/bab01-tokoh.webp",
+      "ukuran": "300% 200%",
+      "posisi": "50% 0%"
+    },
+    {
+      "nama": "Eudoxia",
+      "peran": "Permaisuri Timur",
+      "teks": "Istri Ansbert dan penganut Jalan. Ibu Theodemir, Eirene, dan bayi Danimoan.",
+      "gambar": "assets/img/bab01-tokoh.webp",
+      "ukuran": "300% 200%",
+      "posisi": "100% 0%"
+    },
+    {
+      "nama": "Theodemir",
+      "peran": "Putra sulung · 5 tahun",
+      "teks": "Anak Ansbert dan Eudoxia; kakak Eirene dan Danimoan.",
+      "gambar": "assets/img/bab01-tokoh.webp",
+      "ukuran": "300% 200%",
+      "posisi": "0% 100%"
+    },
+    {
+      "nama": "Eirene",
+      "peran": "Putri · 2 tahun",
+      "teks": "Anak kedua Ansbert dan Eudoxia. Masih kecil ketika istananya berubah.",
+      "gambar": "assets/img/bab01-tokoh.webp",
+      "ukuran": "300% 200%",
+      "posisi": "50% 100%"
+    },
+    {
+      "nama": "Danimoan",
+      "peran": "Putra bungsu · baru lahir",
+      "teks": "Anak ketiga Ansbert dan Eudoxia, lahir pada hari yang dikisahkan dalam bab ini.",
+      "gambar": "assets/img/bab01-tokoh.webp",
+      "ukuran": "300% 200%",
+      "posisi": "100% 100%"
+    }
+  ]
+}

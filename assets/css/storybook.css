@@ -1,0 +1,44 @@
+/* Adapté du fichier Contoh_Mode_Buku_Dongeng.html fourni par l’auteur. */
+
+/* Acuan desain: kitab tua yang dibuka. Halaman kiri = ilustrasi besar, halaman kanan = teks novel. */
+:root{--bg:#14110d;--leather:#3a2618;--paper:#efe4cc;--ink:#2b2117;--gold:#b8924a;--muted:#7d6a50;
+--serif:'EB Garamond',Garamond,Georgia,'Times New Roman',serif;--fs:19px}
+*{box-sizing:border-box}html,body{margin:0;height:100%}
+body{background:radial-gradient(ellipse at 50% 30%,#2a2016,var(--bg) 70%);color:var(--paper);font-family:var(--serif);display:flex;flex-direction:column;align-items:center;justify-content:center;overflow:hidden}
+.top{position:fixed;top:0;left:0;right:0;display:flex;justify-content:space-between;align-items:center;padding:10px 18px;font:12px/1 system-ui,sans-serif;color:#cdbb98;z-index:5}
+.top button{background:none;border:1px solid #b8924a66;color:inherit;padding:6px 10px;margin-left:4px;cursor:pointer;font:inherit}
+.book{position:relative;width:min(1180px,96vw);aspect-ratio:1.5/1;max-height:84vh;perspective:2600px;
+  background:var(--leather);padding:14px;border-radius:6px;box-shadow:0 30px 80px #000c,inset 0 0 0 2px #5a3b22}
+.spread{position:relative;display:grid;grid-template-columns:1fr 1fr;height:100%}
+.page{position:relative;background:var(--paper);color:var(--ink);overflow:hidden;
+  background-image:radial-gradient(ellipse at center,transparent 60%,#c9b48a55),linear-gradient(90deg,#00000014,transparent 8%,transparent 92%,#00000010)}
+.page.left{box-shadow:inset -18px 0 28px -18px #0006}.page.right{box-shadow:inset 18px 0 28px -18px #0006}
+.text{position:absolute;inset:7% 9% 9% 9%;font-size:var(--fs);line-height:1.62;text-align:justify;hyphens:auto}
+.text p{margin:0 0 .7em;text-indent:1.4em}.text p.first{text-indent:0}
+.text p.first:first-letter{float:left;font-size:3.4em;line-height:.8;padding:6px 8px 0 0;color:#7a2f1f}
+.text .orn{text-align:center;color:var(--gold);letter-spacing:.6em;margin:.4em 0 .8em;text-indent:0}
+.folio{position:absolute;bottom:3.5%;left:0;right:0;text-align:center;font-size:13px;color:var(--muted)}
+.art{position:absolute;inset:0;margin:0}.art img{width:100%;height:100%;object-fit:cover;display:block;filter:sepia(.12) contrast(1.02)}
+.art figcaption{position:absolute;left:0;right:0;bottom:0;padding:28px 9% 18px;font-size:14px;font-style:italic;color:#f4e9d2;background:linear-gradient(transparent,#000a)}
+.title-page{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:10%}
+.title-page .kicker{font:600 11px/1 system-ui,sans-serif;letter-spacing:.3em;color:var(--gold)}
+.title-page h1{font-weight:400;font-size:clamp(30px,4vw,48px);margin:14px 0 6px}.title-page .meta{color:var(--muted);font-size:15px}
+.title-page .epi{margin-top:30px;font-style:italic;font-size:17px;line-height:1.6;max-width:30ch}.title-page .epi cite{display:block;margin-top:10px;font-style:normal;font-size:13px;color:var(--muted)}
+/* Daun yang dibalik */
+.leaf{position:absolute;top:0;bottom:0;width:50%;transform-style:preserve-3d;z-index:4;transition:transform .9s cubic-bezier(.45,.05,.25,1)}
+.leaf.fwd{left:50%;transform-origin:left center}.leaf.back{left:0;transform-origin:right center}
+.leaf .face{position:absolute;inset:0;backface-visibility:hidden}.leaf .face.b{transform:rotateY(180deg)}
+.leaf.fwd.turn{transform:rotateY(-180deg)}.leaf.back.turn{transform:rotateY(180deg)}
+.leaf .face:after{content:"";position:absolute;inset:0;pointer-events:none;background:linear-gradient(90deg,#0000,#0003)}
+.nav{display:flex;gap:16px;align-items:center;margin-top:16px;font:13px system-ui,sans-serif;color:#cdbb98}
+.nav button{background:none;border:1px solid #b8924a88;color:#e7d6b2;padding:8px 16px;cursor:pointer}
+.note{position:fixed;bottom:8px;font:11px system-ui,sans-serif;color:#8a7a60;text-align:center;padding:0 12px}
+/* Ponsel: satu halaman per tampilan */
+@media (max-width:820px),(orientation:portrait){
+  .book{width:94vw;aspect-ratio:auto;height:78vh;max-height:none;padding:8px}
+  .spread{grid-template-columns:1fr}.page.right{display:none}
+  .leaf{width:100%}.leaf.fwd{left:0}.leaf.back{left:0;transform-origin:left center}
+  .leaf.back.turn{transform:rotateY(-180deg)}
+  :root{--fs:17px}
+}
+@media (prefers-reduced-motion:reduce){.leaf{transition:none}}
